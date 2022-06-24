@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Save  Launch_fa fa-arrow-circle-right</name>
+   <tag></tag>
+   <elementGuidId>9ab386b7-1fec-4ec2-b91d-1dc2f562ff73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[5]/div/div[2]/div/span/span[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-scope > span.ng-scope > button.btn.btn-black.ng-scope > i.fa.fa-arrow-circle-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07c819a0-9d8c-4e92-b4be-5a9a7df6d4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-circle-right</value>
+      <webElementGuid>1c6757ab-d2e9-4c96-9e54-59ed13108603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>57ce19e2-7a25-4377-b885-f772ed2b3d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-md-12 mtop10 ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-right&quot;]/div[@class=&quot;row&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/button[@class=&quot;btn btn-black ng-scope&quot;]/i[@class=&quot;fa fa-arrow-circle-right&quot;]</value>
+      <webElementGuid>d431a837-749b-4b1b-82b5-97bbcf96879e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a0bcb6fb-54e0-4a5b-b373-4373d914b954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-circle-right</value>
+      <webElementGuid>f05622d0-ea49-42d5-9906-72a924b3c8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c271c552-f9f1-46d8-98ee-840b0fc0d8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-md-12 mtop10 ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-right&quot;]/div[@class=&quot;row&quot;]/span[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/button[@class=&quot;btn btn-black ng-scope&quot;]/i[@class=&quot;fa fa-arrow-circle-right&quot;]</value>
+      <webElementGuid>2ff4f180-7161-49bf-a24f-0370200d628d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[5]/div/div[2]/div/span/span[2]/button/i</value>
+      <webElementGuid>dcbcc4de-16e3-4e40-8af5-fb43993a6b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button/i</value>
+      <webElementGuid>ceb7b4a2-6661-4214-ac39-874a931451b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_No</name>
+   <tag></tag>
+   <elementGuidId>aa47b40e-d1b2-48cb-ad6a-0226551bb979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noResultFound']/div/div/div/toggle-settings/div[7]/div/div[3]/div/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d2de0c4d-a652-4006-8c05-788daf9861ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-switch__label btn-switch__label_no disabled</value>
+      <webElementGuid>9bdc7246-ed84-44b7-befb-c004144475e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>settingCode.VALUE+'_DISABLE_6'</value>
+      <webElementGuid>a4cadd23-0975-489e-b25d-4d6c41434b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>$toggleSettingCtrl.toggles[settingCode.VALUE] ? 'disabled' : 'enabled'</value>
+      <webElementGuid>7f55730f-befd-4c33-b986-c305bb810389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> No </value>
+      <webElementGuid>ecae9c71-af5e-4c4a-8b83-261371cd0daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@id=&quot;noResultFound&quot;]/div[@class=&quot;userAccountSettings&quot;]/div[@class=&quot;panel panel-default account-settings&quot;]/div[@class=&quot;panel-body padding-short small-space&quot;]/toggle-settings[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-md-4 dashed-border-bottom ng-scope&quot;]/div[@class=&quot;toggle-container&quot;]/div[@class=&quot;toggle-switch&quot;]/div[@class=&quot;btn-switch&quot;]/label[@class=&quot;btn-switch__label btn-switch__label_no disabled&quot;]</value>
+      <webElementGuid>a8c6c052-d38f-4445-b6a9-5815211e5537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noResultFound']/div/div/div/toggle-settings/div[7]/div/div[3]/div/label[2]</value>
+      <webElementGuid>f88d9f07-ade4-47ee-98d3-654abf3b3a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[7]/following::label[1]</value>
+      <webElementGuid>47b0deb9-955b-4cd5-bdf7-e86968c4cf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Automated SMS'])[2]/following::label[2]</value>
+      <webElementGuid>ec0e2dce-5d2c-4853-bb67-6c3b62430afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Whatsapp Communication'])[1]/preceding::label[1]</value>
+      <webElementGuid>3d6f1e74-d689-4eaa-af65-1e139f698ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/div/label[2]</value>
+      <webElementGuid>c916c527-748d-46b7-975f-1af7ffbae920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' No ' or . = ' No ')]</value>
+      <webElementGuid>8da72a8b-6972-4fb2-a7fe-42eec87e7ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

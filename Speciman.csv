@@ -1,0 +1,11 @@
+Question,Type,Option,Score,Option,Score,Option,Score,Option,Score,Option,Score
+�Hay alg�n m�todo para omitir finalmente el bloque de excepci�n a�n si ocurre alguna excepci�n en el bloque de excepci�n?,radiobuttonlist,Wick van Rossum,0,Rasmus Lerdorf,0,guido van rossum,5,niene stom,0
+�C�mo se puede serializar un objeto en Java?,radiobuttonlist,programaci�n orientada a objetos,0,programaci�n estructurada,0,programaci�n funcional,0,todo lo mencionado,5
+�C�mo pasaremos un argumento a una funci�n a trav�s de una referencia en lugar de pasar un valor?,radiobuttonlist,no,5,yes,0,dependiente de la m�quina,0,ninguno de los mencionados,0
+�La importaci�n de un paquete tambi�n puede importar los subpaquetes en Java?,radiobuttonlist,Python,0,.py,5,pl,0,.pp,0
+�Podemos declarar una clase como clase abstracta sin tener ning�n m�todo abstracto?,radiobuttonlist,Wick van Rossum,0,Rasmus Lerdorf,0,guido van rossum,5,niene stom,0
+�Qu� se conoce como la clase base en Java de la que se derivan todas las clases?,radiobuttonlist,programaci�n orientada a objetos,0,programaci�n estructurada,0,programaci�n funcional,0,todo lo mencionado,5
+�Explicar la diferencia entre variables flotantes y dobles en Java?,radiobuttonlist,no,5,yes,0,dependiente de la m�quina,0,ninguno de los mencionados,0
+�Es correcto decir que un programa Java nunca se queda sin memoria debido a la funci�n de recolecci�n de basura en Java?,radiobuttonlist,Python,0,.py,5,pl,0,.pp,0
+�Podemos cambiar el valor de cualquier variable definida en la interfaz en una clase que implementa una interfaz?,radiobuttonlist,Wick van Rossum,0,Rasmus Lerdorf,0,guido van rossum,5,niene stom,0
+�Es posible declarar un m�todo en la clase Java pero dar su implementaci�n en otro c�digo de lenguaje como C?,radiobuttonlist,programaci�n orientada a objetos,0,programaci�n estructurada,0,programaci�n funcional,0,todo lo mencionado,5

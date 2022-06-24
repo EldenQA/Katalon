@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_All Candidates_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>50d070a2-c06e-4740-bca5-002fec5b60c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.filter-ico.search.btn.btn-secondary.btn-orange.bulk-orange-btn.ng-scope > span.ng-scope > i.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[3]/div[3]/div/div/div[2]/div/div[2]/filters-action/div/button[2]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07b037b1-5188-454a-9075-fdf7d48b8a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>b3bee3ad-ac36-4d7d-81c3-f0e143b39f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop5 ml ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;manage-leads-shadow ng-scope&quot;]/div[@class=&quot;mtop5 ml captured-leads-wrapper ng-scope&quot;]/div[@class=&quot;col-lg-7 col-md-7 all-candidate-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;page-filter&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-right talent-leads&quot;]/filters-action[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;filter_links_widget filter_links_widget_all_jobs&quot;]/button[@class=&quot;filter-ico search btn btn-secondary btn-orange bulk-orange-btn ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>0433ca2c-9c23-4993-9301-2bed2c4cda26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[3]/div[3]/div/div/div[2]/div/div[2]/filters-action/div/button[2]/span/i</value>
+      <webElementGuid>01bffb58-a185-4e7e-a0f5-650f9fca8d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//filters-action/div/button[2]/span/i</value>
+      <webElementGuid>86673692-595d-4c9f-9954-f9d0b22b08f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

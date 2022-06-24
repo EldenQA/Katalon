@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2Bulk SMS request has been posted successfully</name>
+   <tag></tag>
+   <elementGuidId>dc885073-538d-46fd-a0cd-1b9dddf06275</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn.btn-yellow.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7102d054-b131-4f85-8ea3-54be3737be3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>growl-item alert ng-scope alert-success icon alert-dismissable</value>
+      <webElementGuid>0c255817-5eba-4684-850c-84185aa5996f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>message in growlMessages.directives[referenceId].messages</value>
+      <webElementGuid>f31df4b4-536e-490d-a7b5-8593df63e9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>alertClasses(message)</value>
+      <webElementGuid>837da645-d7e9-4c96-ba62-6a70a39ba69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>stopTimeoutClose(message)</value>
+      <webElementGuid>921a659d-6902-44e1-b39a-184ad2ae4e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×2Bulk SMS request has been posted successfully.</value>
+      <webElementGuid>f2dcdea8-7311-434e-aced-185e3541d1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop5 ml ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;growl-container top-right&quot;]/div[@class=&quot;growl-item alert ng-scope alert-success icon alert-dismissable&quot;]</value>
+      <webElementGuid>1fa1edca-ee88-43db-b1a5-9d221505956d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div/div/div</value>
+      <webElementGuid>fc2ab87d-1557-4baf-9e2e-1bc02c1321dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Talent Pool'])[2]/following::div[5]</value>
+      <webElementGuid>d50a989f-fa14-4808-ae0a-3e7b1c4c4e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Account Folder'])[2]/following::div[5]</value>
+      <webElementGuid>261c2809-e0f3-4a88-affb-e9491bdd1804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Talent Pool'])[3]/preceding::div[6]</value>
+      <webElementGuid>5bfaa831-401f-4b31-8658-109eec0ef4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>82817b5b-3d92-4081-af32-a8366b1e372c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×2Bulk SMS request has been posted successfully.' or . = '×2Bulk SMS request has been posted successfully.')]</value>
+      <webElementGuid>89537b63-0c9d-4b23-8c03-e3c9b64203da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

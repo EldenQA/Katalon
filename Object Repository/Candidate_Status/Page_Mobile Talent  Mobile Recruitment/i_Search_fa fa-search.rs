@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Search_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>9e55540e-6799-495c-a080-77fd925909ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='searchFilters']/div/filters/div/form/div[10]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-search.btn-block > i.fa.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fdeab437-b12b-48f0-8623-db292037850f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>cba175fc-c9e8-4227-8a67-ff38b30f4403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchFilters&quot;)/div[@class=&quot;sidebar-contents&quot;]/filters[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-scope ng-invalid ng-invalid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;search-buttons save-filter lead-choose-filters-btn&quot;]/button[@class=&quot;btn btn-search btn-block&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>40b4c915-0e81-4142-b5ec-61c3f1144468</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='searchFilters']/div/filters/div/form/div[10]/button/i</value>
+      <webElementGuid>da47cb1b-77b2-408a-adb4-f63776862f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button/i</value>
+      <webElementGuid>17890875-3b57-41f0-9cea-2842350306d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enable Candidate Excel Download    Enab_7336b9</name>
+   <tag></tag>
+   <elementGuidId>617b58fb-a01f-4af3-94df-15998c9694a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noResultFound']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-body.padding-short.small-space</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7175ec3-5491-4ef9-ada6-ef2056bafc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-body padding-short small-space</value>
+      <webElementGuid>22a3e9cc-c523-45ee-9bc3-e8df562f6538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>         Enable Candidate Excel Download    Enable Candidate Excel Download          Yes   No             Enable Customer Sourced Media    Enable Customer Sourced Media          Yes   No             Enable Reports    Enable Reports          Yes   No             Enable Unlimited Job Microsite(s)    Enable Unlimited Job Microsite(s)          Yes   No             Enable Bulk Discount on Boost Credit(s)    Enable Bulk Discount on Boost Credit(s)          Yes   No             Enable Bulk Discount on Mobile Job Microsite(s)    Enable Bulk Discount on Mobile Job Microsite(s)          Yes   No             Enable Automated SMS    Enable Automated SMS          Yes   No             Enable Whatsapp Communication    Enable Whatsapp Communication          Yes   No             Enable SMS Communication    Enable SMS Communication          Yes   No             Enable Recruiter Bot    Enable Recruiter Bot          Yes   No             Enable Boost    Enable Boost          Yes   No             Enable Assign Campaign    Enable Assign Campaign          Yes   No             Enable Job Search For Candidate    Enable Job Search For Candidate          Yes   No             Enable Greenhouse Integration    Enable Greenhouse Integration          Yes   No             Enable Job Requisition Features    Enable Job Requisition Features          Yes   No             Enable Referral Portal Feature    Enable Referral Portal Feature          Yes   No             Enable Interview Portal Feature    Enable Interview Portal Feature          Yes   No             Enable Candidate App    Enable Candidate App          Yes   No          × Enable Greenhouse        Please enable SMS Communicator to enable the greenhouse          Ok      </value>
+      <webElementGuid>2ae7b60d-2ef2-41d1-8add-8204328f9832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@id=&quot;noResultFound&quot;]/div[@class=&quot;userAccountSettings&quot;]/div[@class=&quot;panel panel-default account-settings&quot;]/div[@class=&quot;panel-body padding-short small-space&quot;]</value>
+      <webElementGuid>337d36eb-daf0-48a3-94ae-6089bc5fa351</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noResultFound']/div/div/div</value>
+      <webElementGuid>22c52aef-bde3-46b6-8ddf-802adba5ada9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>ba1339f9-c6d3-4888-ab7a-8964456cc425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '         Enable Candidate Excel Download    Enable Candidate Excel Download          Yes   No             Enable Customer Sourced Media    Enable Customer Sourced Media          Yes   No             Enable Reports    Enable Reports          Yes   No             Enable Unlimited Job Microsite(s)    Enable Unlimited Job Microsite(s)          Yes   No             Enable Bulk Discount on Boost Credit(s)    Enable Bulk Discount on Boost Credit(s)          Yes   No             Enable Bulk Discount on Mobile Job Microsite(s)    Enable Bulk Discount on Mobile Job Microsite(s)          Yes   No             Enable Automated SMS    Enable Automated SMS          Yes   No             Enable Whatsapp Communication    Enable Whatsapp Communication          Yes   No             Enable SMS Communication    Enable SMS Communication          Yes   No             Enable Recruiter Bot    Enable Recruiter Bot          Yes   No             Enable Boost    Enable Boost          Yes   No             Enable Assign Campaign    Enable Assign Campaign          Yes   No             Enable Job Search For Candidate    Enable Job Search For Candidate          Yes   No             Enable Greenhouse Integration    Enable Greenhouse Integration          Yes   No             Enable Job Requisition Features    Enable Job Requisition Features          Yes   No             Enable Referral Portal Feature    Enable Referral Portal Feature          Yes   No             Enable Interview Portal Feature    Enable Interview Portal Feature          Yes   No             Enable Candidate App    Enable Candidate App          Yes   No          × Enable Greenhouse        Please enable SMS Communicator to enable the greenhouse          Ok      ' or . = '         Enable Candidate Excel Download    Enable Candidate Excel Download          Yes   No             Enable Customer Sourced Media    Enable Customer Sourced Media          Yes   No             Enable Reports    Enable Reports          Yes   No             Enable Unlimited Job Microsite(s)    Enable Unlimited Job Microsite(s)          Yes   No             Enable Bulk Discount on Boost Credit(s)    Enable Bulk Discount on Boost Credit(s)          Yes   No             Enable Bulk Discount on Mobile Job Microsite(s)    Enable Bulk Discount on Mobile Job Microsite(s)          Yes   No             Enable Automated SMS    Enable Automated SMS          Yes   No             Enable Whatsapp Communication    Enable Whatsapp Communication          Yes   No             Enable SMS Communication    Enable SMS Communication          Yes   No             Enable Recruiter Bot    Enable Recruiter Bot          Yes   No             Enable Boost    Enable Boost          Yes   No             Enable Assign Campaign    Enable Assign Campaign          Yes   No             Enable Job Search For Candidate    Enable Job Search For Candidate          Yes   No             Enable Greenhouse Integration    Enable Greenhouse Integration          Yes   No             Enable Job Requisition Features    Enable Job Requisition Features          Yes   No             Enable Referral Portal Feature    Enable Referral Portal Feature          Yes   No             Enable Interview Portal Feature    Enable Interview Portal Feature          Yes   No             Enable Candidate App    Enable Candidate App          Yes   No          × Enable Greenhouse        Please enable SMS Communicator to enable the greenhouse          Ok      ')]</value>
+      <webElementGuid>cbe8f179-1c50-4048-813b-81cb1f651c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

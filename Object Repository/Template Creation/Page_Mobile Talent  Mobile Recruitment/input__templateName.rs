@@ -4,33 +4,32 @@
    <name>input__templateName</name>
    <tag></tag>
    <elementGuidId>0a9dedc7-aecd-44b0-96c7-be073e19bb8e</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'templateName' and @name = 'templateName' and @type = 'text' and @placeholder = 'Enter Name Here']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#templateName</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;templateName&quot;)[count(. | //input[@id = 'templateName' and @ng-model = 'vm.micrositeModal.templateName' and @name = 'templateName' and @type = 'text' and @ng-maxlength = '90' and @placeholder = 'Enter Name Here' and @class = 'form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched']) = count(//input[@id = 'templateName' and @ng-model = 'vm.micrositeModal.templateName' and @name = 'templateName' and @type = 'text' and @ng-maxlength = '90' and @placeholder = 'Enter Name Here' and @class = 'form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched'])]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='templateName']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>d8e89164-9d83-42c4-853c-69666983e98a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,13 +37,15 @@
       <name>id</name>
       <type>Main</type>
       <value>templateName</value>
+      <webElementGuid>ab491da8-54c3-4324-99a1-5c2f06e6d9c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-model</name>
       <type>Main</type>
       <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>f489968e-4f48-4387-ba29-b60e49bf5c2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,6 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>templateName</value>
+      <webElementGuid>08005664-057a-4c90-8eaa-570ed072c651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,13 +61,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>52811dd0-7a26-4a8d-8086-173e0796c69e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-maxlength</name>
       <type>Main</type>
       <value>90</value>
+      <webElementGuid>7fc00f64-4ca2-45c3-834e-f7a32a834a39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,6 +77,79 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter Name Here</value>
+      <webElementGuid>5d3baeb8-d055-46cb-8888-9a8f93f1beee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>2cd532ab-bdc8-402a-b804-d5b6be957552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>a8d0855c-4406-413c-ab8d-ebe5b9a91f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bc0f51ee-9616-4f62-8807-c9012e24323f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>dab4dc47-8b90-4f85-a470-d5157fa99ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>a247990a-9ea1-4b1d-bcb7-55974ba0973a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>eb5f2556-6bce-406c-9c71-9f3872a2bcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a07ef24b-079b-4d7a-832b-7c5008a51b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>0c7fdaab-8d06-4efc-92a5-1b2b237853c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>3ef83662-3e5d-4471-8c22-e5aa9a86647e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,6 +157,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>427599b7-a762-4e4f-b929-558be7baffe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,6 +165,439 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>e6eb7331-1bda-4759-a099-250f1b0a3bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e435dea7-6626-4ca0-9e47-b047f4ed4307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>f6f71ad2-3572-405e-ad5b-eafdf7ac238c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>1afb20a9-24f1-49f3-b330-3828546196e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>0ef00e6b-61ec-4737-b14f-e597f9a6f5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c84ea485-8858-4034-b529-0a2645b4f8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>8dabb2b7-d6b3-4774-b1a4-d717529f19b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>88c27270-5243-45cf-b7c1-bdd8651cfa3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>f495fc2b-9e32-45db-a1f1-19af53a14dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>c4057eb7-d76f-4206-bd79-74c1a3b8d373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>308983db-af35-4f9e-bb5f-08c1a8e31b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>6e387714-dd44-477f-96ac-806d6474d46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>5962fdd0-8232-4fba-9b32-072ecfa53757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>e05a8d81-464f-4b5f-bbd4-0c86f17573ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b1f2ae2c-0564-4727-921d-fb50eee91e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>853f5c3d-1c52-4695-bc4b-19b4fca86d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>9d5995ce-0390-480b-931e-2c724ab25fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>7b13c317-8d63-4148-ae8e-e5e17a70ab01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>e75aa053-309f-469a-bfa9-219917db1558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>53992ffe-e9c5-497b-bb8e-29f2dac62059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>66d32a50-f31f-4d2a-bd02-e98263a1fd79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>df7603d2-c067-4228-b92c-0f45a1ee117e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>df95a22d-12d7-41f0-8394-63b58c6e1873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>57b6f32e-138f-4d77-9edf-05bcadcb371d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>33e5181b-5ea9-4639-bbd9-1fecfd1d40fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>f7f1dd93-3c69-4713-94d7-dfaa752700ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>46d4861f-6563-4226-9a32-744ea8211e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>ed891e4d-52a1-4126-a8bd-602f0aba3c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4767a37d-8532-4752-b92a-439ea3c0869a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>b768d338-cc8e-4af5-be93-3403ada3b7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>1420ba1e-0c14-4fcf-a50c-c4dd793b9cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>edd649ab-d9f6-440b-80e8-16112bdeca92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7d9dec9a-56fb-4b95-b217-9153e111071f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>5b7ccb69-99bb-4b5a-a8fc-d46df551e09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>e8d38b52-8adc-446f-a867-334eedd9b291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>3be965b3-897a-47d0-bcc4-759f27753562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>fcaa821c-cdc4-4863-96fd-8659e7cd380c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>82f8122a-60fa-46fa-a5aa-8f6ee848e4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>5bbc3154-d2b4-4e1a-b44b-75c97678957a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>d45d2677-9af2-4add-800c-dda5aedf3cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>8070e523-9691-48be-bc23-1329ac8d939c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6664ff3a-1bc9-4381-850e-cab5894bec44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>8569a55f-d425-48a9-ac44-74052dd61ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>df38b4c9-0baa-48d8-b4f8-e8723e52b16a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>dafb69ce-d21d-4fc7-b6de-fea985791704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>e8474806-7bf7-4710-af85-50ca26bfca6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>55dbad62-60a8-4e2a-a122-fc29bdcbfcdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>2c01e608-2a71-4585-be2a-6036949b40f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.micrositeModal.templateName</value>
+      <webElementGuid>b72bc02d-e645-4c41-afc5-cb6dd7a72991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>templateName</value>
+      <webElementGuid>75d83b4c-8771-413c-bccf-749e6602b083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>08373887-4865-4d49-8e2f-eec905445b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-maxlength</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>768203b3-72a1-4e41-bb82-d6d1ea124117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Name Here</value>
+      <webElementGuid>1c5806a1-1315-4f42-9f81-dab3d7346863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength ng-touched</value>
+      <webElementGuid>72a7f1ab-6806-4225-a046-a2069beb806d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateName&quot;)</value>
+      <webElementGuid>bd07934b-5edb-4fef-bb59-4aaecb01f8ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,6 +605,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='templateName']</value>
+      <webElementGuid>49517f33-0d27-4d47-b154-495a9b6df4e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +613,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li/div/input</value>
+      <webElementGuid>b6e5cc07-3327-42e5-976c-9fd9d9dd1760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +621,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::input[1]</value>
+      <webElementGuid>18320a0b-c9d8-4929-93d3-de7b2b0b2b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +629,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::input[1]</value>
+      <webElementGuid>3ddf01c1-3fa5-407a-ba8e-b656680c61df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +637,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
+      <webElementGuid>9449c339-226f-4262-8d95-c2f5dae7fcbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,5 +645,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'templateName' and @name = 'templateName' and @type = 'text' and @placeholder = 'Enter Name Here']</value>
+      <webElementGuid>fc4c5bd5-9f29-470a-978d-1c2e2ae003e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

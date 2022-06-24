@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_PM_glyphicon glyphicon-chevron-down_1</name>
+   <tag></tag>
+   <elementGuidId>4eee2478-51eb-4781-8f64-6a2dcfd774d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bulkSms']/div/div/div[2]/div/div/div[5]/form/fieldset/div[3]/div/div/table/tfoot/tr/th/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5f7059e4-0039-4a5c-9ec2-dd3f8bb11185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-chevron-down</value>
+      <webElementGuid>e2625d90-ea8d-4b41-ab46-e07ecc6ce980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bulkSms&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body no-padding modal-bulk-sms&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;schedule-block&quot;]/form[@class=&quot;ng-valid-maxlength ng-dirty ng-valid-parse ng-valid-date ng-valid-min ng-valid-max ng-valid ng-valid-required&quot;]/fieldset[@class=&quot;ng-scope&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-10 col-lg-10 calendar-icon&quot;]/div[@class=&quot;dropdown-menu timepicker ng-scope am-fade bottom-left&quot;]/table[1]/tfoot[1]/tr[@class=&quot;text-center&quot;]/th[1]/button[@class=&quot;btn btn-default pull-left&quot;]/i[@class=&quot;glyphicon glyphicon-chevron-down&quot;]</value>
+      <webElementGuid>37ed05b2-562f-4063-af0b-483ab9815730</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bulkSms']/div/div/div[2]/div/div/div[5]/form/fieldset/div[3]/div/div/table/tfoot/tr/th/button/i</value>
+      <webElementGuid>fedd17d1-5cab-4c63-9d11-549a153ce7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tfoot/tr/th/button/i</value>
+      <webElementGuid>5aa10917-d06a-4638-84b5-ce809b07e1c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

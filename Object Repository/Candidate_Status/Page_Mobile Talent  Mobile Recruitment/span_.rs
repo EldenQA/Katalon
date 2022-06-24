@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>692a958e-6891-432c-a866-e7450c83f0f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='searchFilters']/div/filters/div/form/div[5]/oi-multiselect/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.close.multiselect-search-list-item_selection-remove</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92e1d33d-44f7-435f-880a-cebae10667b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close multiselect-search-list-item_selection-remove</value>
+      <webElementGuid>0532c0f4-4e9e-4a5a-a652-2e094ecedfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>68ef81be-fa9b-4652-9c1f-bf06917f59c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchFilters&quot;)/div[@class=&quot;sidebar-contents&quot;]/filters[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-scope ng-invalid ng-invalid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/oi-multiselect[@class=&quot;ng-untouched ng-isolate-scope ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;btn btn-default btn-xs multiselect-search-list-item multiselect-search-list-item_selection ng-binding ng-scope&quot;]/span[@class=&quot;close multiselect-search-list-item_selection-remove&quot;]</value>
+      <webElementGuid>353831ef-b4bd-45e3-bd8a-ae1b4579d235</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='searchFilters']/div/filters/div/form/div[5]/oi-multiselect/div/ul/li/span</value>
+      <webElementGuid>a53e39e5-3eff-4791-b935-63ee3df16234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      <webElementGuid>702ac37e-a7d4-4761-9b61-f521d8c71622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d93e074-e192-4943-8709-8456b52741a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Source'])[1]/preceding::span[1]</value>
+      <webElementGuid>ebd41ff3-e30a-41ae-9c5a-8e98cde4db43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/span</value>
+      <webElementGuid>25ab8cb8-726f-4ece-8a72-8dfee5eef892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>a641b885-4786-4f49-8763-09edfc3ce5b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

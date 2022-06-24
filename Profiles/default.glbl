@@ -4,4 +4,49 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'atsharma@qasource.com'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5OTdtOb306gDg=='</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'motzie-staging.mobile-recruit.com/login'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Perl Developer'</initValue>
+      <name>JobName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'prajakta'</initValue>
+      <name>candidateName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vinayak pathak'</initValue>
+      <name>hiredCandidate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'div:nth-of-type(1) > .collapse.panel-collapse div[name=\'documentList\'] > .ui-select-match > .btn.btn-default.form-control.ui-select-toggle'</initValue>
+      <name>locatorForDocumentInput</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vinayak@yopmail.comxxxx21753xxxx'</initValue>
+      <name>candidateAppUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5OTdtOb306gDg=='</initValue>
+      <name>candidateAppPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

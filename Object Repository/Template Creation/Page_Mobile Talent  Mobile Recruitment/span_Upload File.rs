@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload File</name>
+   <tag></tag>
+   <elementGuidId>fa805a90-38ee-4ca8-a11a-7b52379ae528</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseUploadQuestionnaires']/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-container.drop.ng-scope > span.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e685947f-d7f7-435c-9cfd-817936208db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!vm.fileName &amp;&amp; !vm.uploadingLoader</value>
+      <webElementGuid>421f4cfe-2b98-40d7-bf3c-16b9a37c8d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>50c4f581-75b6-4f6f-9bf9-c685d4f87d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Upload File</value>
+      <webElementGuid>09538e01-ccd1-4c87-8493-00332a1d9ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseUploadQuestionnaires&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;upload-panel-body&quot;]/div[@class=&quot;row mtop&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;upload-container drop ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>a5c628a4-a8fb-4b50-b8fd-a6ec2d4796ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseUploadQuestionnaires']/div/div/div[2]/div/div/span</value>
+      <webElementGuid>2e1f662a-4b46-4313-ab0d-20ee5d511bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here'])[1]/following::span[1]</value>
+      <webElementGuid>562c359a-4406-4d88-8bef-cc0380dec493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload File']/parent::*</value>
+      <webElementGuid>2f4f7286-e078-4c8d-baa8-ace36862499b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>9ccf755f-568d-4cdf-9508-ae97fdb791d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Upload File' or . = '  Upload File')]</value>
+      <webElementGuid>165b19b7-ba46-4ac1-8381-d5d177335ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

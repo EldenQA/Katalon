@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Signed_fas fa-eye icon-grey ng-scope</name>
+   <tag></tag>
+   <elementGuidId>b2cbca2e-319e-4c09-9451-d179c2265576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye.icon-grey.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse1']/div/div/div[5]/div/table/tbody/tr/td[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8aed2b1d-6f32-4bd7-b1a0-2e3a03cf271b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye icon-grey ng-scope</value>
+      <webElementGuid>9d6cf301-0e5d-4ad8-afec-4df756b0168f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>4b526b8f-d623-4759-a3d0-72a4aeb8ce32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>b2adaabd-c970-46b3-a799-10410d5572af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-animation</name>
+      <type>Main</type>
+      <value>am-flip-x</value>
+      <webElementGuid>9818ef10-c3c1-4e2d-8e52-f1325bc21260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse1&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[3]/div[@class=&quot;onboard-actions&quot;]/a[@class=&quot;link-color-black&quot;]/i[@class=&quot;fas fa-eye icon-grey ng-scope&quot;]</value>
+      <webElementGuid>58c4e2e4-6ca7-4740-a947-f9e7bd1ad5a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse1']/div/div/div[5]/div/table/tbody/tr/td[3]/div/a/i</value>
+      <webElementGuid>3dc29bbe-69a0-4a47-afd5-51d3ea6d6db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[1]/following::i[1]</value>
+      <webElementGuid>87ec090a-0b39-4f20-aeaf-c3f846d404f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DocumentGCQtG'])[1]/following::i[1]</value>
+      <webElementGuid>15f90ecf-d2ed-4b6b-9f48-ddfd3c4cec58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::i[1]</value>
+      <webElementGuid>53b4d922-cce5-4b07-8c31-8cbf85de7c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/i</value>
+      <webElementGuid>bb089971-20fe-4ce4-8329-d84709560f13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

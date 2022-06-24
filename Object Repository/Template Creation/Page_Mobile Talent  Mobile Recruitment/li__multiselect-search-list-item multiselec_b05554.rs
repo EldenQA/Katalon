@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
+      <webElementGuid>a39d2e9b-d985-4775-ad4c-a586309b88f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>740aef4c-3673-41b8-9fc5-fb9c5c63f258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,175 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>8a4f94ee-d407-4fc2-9bf4-8a3f956222dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>47f7e50b-187a-4c9a-8737-7c5082cf1510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>0d844f76-382a-4653-9f96-94490623a64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>5aa3d3ad-362e-467b-9f87-341d24f69c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c9e1e0e0-a6ce-4a3c-907a-e41f6fe57641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>b69f7539-3d22-4743-9baf-d53e505bc7df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>42f3af12-8f79-4d3e-8458-144cb9d57ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>82f1e3c9-fb4e-4a56-b3ec-17e30be8689a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>1422d6f1-fbed-4754-ae85-be1379704c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>78c2757f-fb55-42bd-b3de-106b27c88b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2291a22d-ef73-4fc4-bcb0-39ea441831de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>d9eb5faa-d813-4909-9315-17d85f7a190e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>2a1e3bff-cc58-4f13-94c2-1de875f382bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6aa5780b-605a-47fc-b26d-554b5d3b4934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>191e8622-8099-4de5-be07-88794b1332a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>2bd9336b-2e24-4991-84a1-79d6ccb7d77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>24f3362b-87f1-4b8e-9a92-7f4764831ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>ef8f2d07-6e35-4ad6-b35b-125122f1887a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>fc0dd4ba-de56-4634-aa6d-5529a0ffbad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>77d61b1d-5131-499f-a139-5161c4a6072d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list-item multiselect-search-list-item_input</value>
+      <webElementGuid>3c6a8bd9-b598-4ea5-ac4f-626311a634c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]/li[@class=&quot;multiselect-search-list-item multiselect-search-list-item_input&quot;]</value>
+      <webElementGuid>7abd3d83-3278-4e00-b938-c9d9190b2f5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,6 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li[2]/div/oi-multiselect/div/ul/li</value>
+      <webElementGuid>e47ced6b-c8b6-46d2-a596-d719a0987ec9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::li[1]</value>
+      <webElementGuid>c3b9112f-ea76-4913-81a3-d05e90eb951e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Family'])[1]/preceding::li[2]</value>
+      <webElementGuid>c208f577-ea28-4812-a806-0cd4e7774ac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Function'])[1]/preceding::li[5]</value>
+      <webElementGuid>889ec550-6926-492e-b7c4-f44f11a0c81f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,5 +246,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//oi-multiselect/div/ul/li</value>
+      <webElementGuid>0d17c069-e726-4778-9ff2-e61f9c2ece2d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

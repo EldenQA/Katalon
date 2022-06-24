@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Single Line Question_glyphicon glyphicon-plus_1</name>
+   <tag></tag>
+   <elementGuidId>f636ba13-6f4b-4ce5-a4e8-bf228ddecc4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div[2]/div/div/fieldset/div[10]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af4bbdc9-1774-4396-9477-96826e0a55ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-plus</value>
+      <webElementGuid>b093c6e2-ab27-4138-8e01-caccfc6c0f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFields&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;needs-some-more-space ng-isolate-scope&quot;]/div[@class=&quot;fg-tabs tabbable&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-tabs-pane&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;fg-edit row form-group pos-rel ng-isolate-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;col-sm-4 toolbox ng-pristine ng-valid&quot;]/div[@class=&quot;fg-form&quot;]/div[@class=&quot;fg-edit-palette&quot;]/fieldset[1]/div[@class=&quot;fg-field ng-scope&quot;]/div[@class=&quot;fg-field-overlay&quot;]/div[@class=&quot;btn-toolbar btn-toolbar-right&quot;]/button[@class=&quot;btn btn-default btn-xs btn-primary&quot;]/span[@class=&quot;glyphicon glyphicon-plus&quot;]</value>
+      <webElementGuid>503e86cf-7dc6-4796-a0d2-b6dc549bc971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div[2]/div/div/fieldset/div[10]/div/div/button/span</value>
+      <webElementGuid>070556d6-3239-45a7-8fca-8f7fd272faf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/button/span</value>
+      <webElementGuid>6dbf9cee-9064-4fc8-b3d2-a0f1388ac335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

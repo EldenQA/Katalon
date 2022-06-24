@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Today, 950 am   Romit Romit</name>
+   <tag></tag>
+   <elementGuidId>566d7252-d42d-4ade-9bb3-a12c85a5a5de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_2_container']/div/div/ul[4]/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bf252ca-5598-4474-98ff-803d58c769a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message-data text-right</value>
+      <webElementGuid>253b602a-3d61-4b39-bced-d58dff20691f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>             Today, 9:50 am     Romit Romit  </value>
+      <webElementGuid>85255fce-b96b-45d3-8e2c-b1f0cfcd6e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_2_container&quot;)/div[@class=&quot;scroller&quot;]/div[@class=&quot;chat-history&quot;]/ul[@class=&quot;ng-scope&quot;]/li[@class=&quot;clearfix ng-scope&quot;]/div[@class=&quot;message-data text-right&quot;]</value>
+      <webElementGuid>12f48594-4ad7-4f4d-9344-19cf4939ce20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_2_container']/div/div/ul[4]/li/div</value>
+      <webElementGuid>481621c5-43a3-4d45-bd83-05b6018917d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Account'])[3]/following::div[2]</value>
+      <webElementGuid>ba092580-896e-412a-9578-1abbf2a9a057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Account'])[2]/following::div[4]</value>
+      <webElementGuid>3c9ae707-ee02-462e-a0a6-0faec1daf12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/div</value>
+      <webElementGuid>b7c7ba1b-dccf-42db-96aa-8d872d35b287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '             Today, 9:50 am     Romit Romit  ' or . = '             Today, 9:50 am     Romit Romit  ')]</value>
+      <webElementGuid>b66ff718-e62e-4d4d-99ac-b304cd7f7f69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

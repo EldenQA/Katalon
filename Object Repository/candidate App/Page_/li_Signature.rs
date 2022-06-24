@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Signature</name>
+   <tag></tag>
+   <elementGuidId>09693370-efb4-4183-9714-687571f4933b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-0']/div/div/div[2]/div/ul/li/pdf-placeholder/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[class='placeholder Signature']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>380abdad-4b15-45e3-a06c-18d2076672c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder Signature</value>
+      <webElementGuid>ba3d285d-501a-4eec-94b5-3787e5488d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Signature</value>
+      <webElementGuid>9d336947-86f5-4273-91eb-910ea940ac1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-0&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/div[@class=&quot;doc-container ng-star-inserted&quot;]/div[@class=&quot;doc-viewer&quot;]/div[@class=&quot;document&quot;]/ul[@class=&quot;placeholderList ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/pdf-placeholder[@class=&quot;placeholder ng-star-inserted&quot;]/li[@class=&quot;placeholder Signature&quot;]</value>
+      <webElementGuid>9a41dd99-f7b7-47be-8245-efd2148f0e48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-0']/div/div/div[2]/div/ul/li/pdf-placeholder/li</value>
+      <webElementGuid>02b99f6c-148a-4301-bf0e-13672cab83ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Signing'])[1]/following::li[2]</value>
+      <webElementGuid>06dd294d-9f5f-44dd-9f64-469b484962e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Simple PDF File'])[1]/preceding::li[1]</value>
+      <webElementGuid>45525cce-455f-4fd2-8440-a38ab718575b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//pdf-placeholder/li</value>
+      <webElementGuid>664ba946-23fd-40eb-b0b3-c9c544fbc022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Signature' or . = 'Signature')]</value>
+      <webElementGuid>bf28915a-ed6c-4b92-8709-cedd6f52a721</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

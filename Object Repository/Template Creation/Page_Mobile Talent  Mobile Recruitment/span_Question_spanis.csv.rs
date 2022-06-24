@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Question_spanis.csv</name>
+   <tag></tag>
+   <elementGuidId>f91c6f72-03b0-4580-bfe1-97d5a70e52cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseUploadQuestionnaires']/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-container.drop.ng-scope > span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cc0d1d2-220f-4bbc-b455-73146f328d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.fileName &amp;&amp; !vm.uploadingLoader</value>
+      <webElementGuid>2ac78a04-1c51-40ce-95ca-c674a33f151a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>387d7648-9760-4939-8ad5-92c48de83765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Question_spanis.csv</value>
+      <webElementGuid>82d5ce12-3cf9-4a12-b628-7d9796a8a978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseUploadQuestionnaires&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;upload-panel-body&quot;]/div[@class=&quot;row mtop&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;upload-container drop ng-scope&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>de566d63-37ce-4601-9146-51205127e287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseUploadQuestionnaires']/div/div/div[2]/div/div/span</value>
+      <webElementGuid>939d7706-8140-4ea7-913e-5373e80835a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here'])[1]/following::span[1]</value>
+      <webElementGuid>937820a1-bb43-45da-948a-b7704ff9cad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Question_spanis.csv']/parent::*</value>
+      <webElementGuid>260d8929-9210-4f40-8b95-a7d8a8c9ba54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>fd130bae-ce1c-420f-908c-496e97caaca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Question_spanis.csv' or . = '  Question_spanis.csv')]</value>
+      <webElementGuid>0fb07280-a2f7-4cf8-94b6-c9ce7e5ab0af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

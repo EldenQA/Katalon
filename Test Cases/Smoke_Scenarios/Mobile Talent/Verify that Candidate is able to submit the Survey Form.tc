@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Candidate is able to submit the Survey Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc2f987b-df71-40ff-94b4-4b6f49630cd2</testCaseGuid>
+</TestCaseEntity>

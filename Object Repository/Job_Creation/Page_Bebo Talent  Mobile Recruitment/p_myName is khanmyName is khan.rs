@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_myName is khanmyName is khan</name>
+   <tag></tag>
+   <elementGuidId>b7f069cf-0cc6-45a6-b717-ceac4913a8f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='taTextElement9257071897684586']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#taTextElement9257071897684586 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>822b0dc5-294f-48c4-9208-faa70a3d8538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>myName is khanmyName is khan </value>
+      <webElementGuid>ed563a2b-3690-4b3c-a552-6c407940b2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taTextElement9257071897684586&quot;)/p[1]</value>
+      <webElementGuid>13544b55-3bd9-4a2b-80e8-f203bdf3732f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taTextElement9257071897684586']/p</value>
+      <webElementGuid>7857baa4-649c-4bed-8cae-a7db9d02bdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter minimum 200 characters.'])[1]/preceding::p[1]</value>
+      <webElementGuid>f4c13009-d352-41c7-a8e9-48efb8d340e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='myName is khan']/parent::*</value>
+      <webElementGuid>de3f5ed5-8026-479a-93a8-0c3c8f4b5e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>b7e7304c-8001-489f-ac19-4b6902bf14b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'myName is khanmyName is khan ' or . = 'myName is khanmyName is khan ')]</value>
+      <webElementGuid>29954dd1-0f21-4cdb-88f1-2919eccedd9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Software Engineer_FR_QAES_6767</name>
+   <tag></tag>
+   <elementGuidId>4ea140fc-0d65-4e2f-b3e7-075fcc2eb25f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='campaign_3952']/td[3]/div/span[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link-text.link-color-black.ng-binding.ng-click-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3898a87b-b6e8-4cf6-adca-74f421d026d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.openCampaignInfoDialog(campaign.campaignId,vm)</value>
+      <webElementGuid>c1c8e3fc-c04a-4357-acff-4fe0476f8ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>761cb9ac-0a04-4142-bca0-5264aa2ab5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-text link-color-black ng-binding ng-click-active</value>
+      <webElementGuid>87e961fc-a9f4-40de-ae57-6cec75ce8ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#myModal</value>
+      <webElementGuid>73788a85-5d67-4f81-9d94-e65d190e65c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Engineer_FR_QAES_6767</value>
+      <webElementGuid>02d8acd2-30cd-4b47-ae49-f1a765bacd83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;campaign_3952&quot;)/td[@class=&quot;icon-move&quot;]/div[@class=&quot;campTitle&quot;]/span[@class=&quot;move-icon-dec&quot;]/a[@class=&quot;link-text link-color-black ng-binding ng-click-active&quot;]</value>
+      <webElementGuid>c20e50fb-461d-4fca-8a29-d2f74b94f79c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='campaign_3952']/td[3]/div/span[2]/a</value>
+      <webElementGuid>500566ad-b03b-49af-9c75-34aad221d539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Software Engineer_FR_QAES_6767')]</value>
+      <webElementGuid>9eaf4ac8-bd65-4532-bccf-aa88d04cb812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB_3952'])[1]/following::a[1]</value>
+      <webElementGuid>6b032a29-d17c-40c4-af1f-13224558d750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled'])[1]/following::a[11]</value>
+      <webElementGuid>2aff010e-0deb-4aa5-a992-a967c1011e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boost'])[4]/preceding::a[1]</value>
+      <webElementGuid>d7136bc3-3359-45aa-bc2c-367d3ee61c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled'])[2]/preceding::a[2]</value>
+      <webElementGuid>6e3f760c-d933-4651-8446-4e7ef6fea05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Software Engineer_FR_QAES_6767']/parent::*</value>
+      <webElementGuid>3ae64ba1-1eb8-4323-b912-0fecd7e05304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[74]</value>
+      <webElementGuid>3dc2b517-6eaf-4ad5-9f89-773bebff6962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/div/span[2]/a</value>
+      <webElementGuid>8b349b90-48db-4bd6-9a65-fc0062d76738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Software Engineer_FR_QAES_6767' or . = 'Software Engineer_FR_QAES_6767')]</value>
+      <webElementGuid>16a8a2b9-600a-4cb1-9df2-78c2debbfdd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

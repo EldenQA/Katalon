@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_English</name>
+   <tag></tag>
+   <elementGuidId>ad65aa77-c66d-4845-81be-f82c93013ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-select-match-text.pull-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[2]/div/div/message-template-settings/div/div/div/select-locale/ng-form/div/div/div/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>323c07cd-29f0-47c9-8ef0-e714e31ce9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>$select.isEmpty()</value>
+      <webElementGuid>4e14c507-61ba-4173-b2af-35b70a8bac24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-select-match-text pull-left</value>
+      <webElementGuid>ce1e2e2f-1477-449a-93e0-c95ca9ffbb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'ui-select-allow-clear': $select.allowClear &amp;&amp; !$select.isEmpty()}</value>
+      <webElementGuid>95cbd290-5495-4a83-bfb3-ac84961e2156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>06c950e9-90c4-4579-81ee-d129a697dde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/form[@class=&quot;mnone ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-valid-ta-min-text ng-valid-min ng-dirty ng-valid-parse ng-valid-is-exists&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;wizard-area mobile-campaign-wizard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/message-template-settings[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-md-10 col-lg-7 messageTemplate campaignWizard&quot;]/div[@class=&quot;form-group overflow-visible&quot;]/div[@class=&quot;col-sm-6&quot;]/select-locale[@class=&quot;ng-isolate-scope&quot;]/ng-form[@class=&quot;ng-pristine ng-valid&quot;]/div[@class=&quot;language-drop-down ng-scope&quot;]/div[@class=&quot;ui-select-container ui-select-bootstrap dropdown ng-valid&quot;]/div[@class=&quot;ui-select-match&quot;]/span[@class=&quot;btn btn-default form-control ui-select-toggle&quot;]/span[@class=&quot;ui-select-match-text pull-left&quot;]</value>
+      <webElementGuid>81be6735-5f77-44ff-a945-848b370f0bf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[2]/div/div/message-template-settings/div/div/div/select-locale/ng-form/div/div/div/span/span[2]</value>
+      <webElementGuid>735799a3-f83b-450d-8f01-070424d3b4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Locale...'])[1]/following::span[1]</value>
+      <webElementGuid>63498808-33e2-4992-a9a8-d0b1ed2676d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[3]</value>
+      <webElementGuid>895636a2-1bcf-4045-aac2-570b8f118725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select a Language...'])[1]/preceding::span[3]</value>
+      <webElementGuid>683ab737-5313-4db3-8a09-57bac0e25057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>cd693316-694a-4fea-8243-e13699f3ff8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'English' or . = 'English')]</value>
+      <webElementGuid>6efb8c69-4563-4e35-9fd6-263b8612dc2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

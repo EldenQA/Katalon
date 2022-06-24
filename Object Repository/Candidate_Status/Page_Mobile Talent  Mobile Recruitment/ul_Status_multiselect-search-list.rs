@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Status_multiselect-search-list</name>
+   <tag></tag>
+   <elementGuidId>1da7ac11-d649-4eec-a94b-c9827ec23ce7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='searchFilters']/div/filters/div/form/div[5]/oi-multiselect/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.multiselect-search-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>f8794ad7-d866-4ee0-a4cb-bcdaa2c84989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-search-list</value>
+      <webElementGuid>4d7253b1-5fea-4f9c-bd81-6afa37beecf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchFilters&quot;)/div[@class=&quot;sidebar-contents&quot;]/filters[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-pristine ng-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;form-group&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-isolate-scope ng-invalid ng-invalid-required&quot;]/div[@class=&quot;multiselect-search&quot;]/ul[@class=&quot;multiselect-search-list&quot;]</value>
+      <webElementGuid>64133875-6670-4ffd-9be8-9e17352e30a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='searchFilters']/div/filters/div/form/div[5]/oi-multiselect/div/ul</value>
+      <webElementGuid>93a9d255-770c-4791-957c-f7a9b37a4c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::ul[1]</value>
+      <webElementGuid>8855c7da-00cb-4bd5-863a-3b6250872f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Score Range'])[1]/following::ul[1]</value>
+      <webElementGuid>852af59d-fb03-42bf-956a-749edd657b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/preceding::ul[1]</value>
+      <webElementGuid>b8400574-bb9f-467c-a7a9-43b1c0047164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Source'])[1]/preceding::ul[1]</value>
+      <webElementGuid>51e0ecf0-24d6-4a2a-a50d-f1c9b3fa93ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//oi-multiselect/div/ul</value>
+      <webElementGuid>180f8d68-698a-43e7-af56-ff6b5292d7db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job Function    --Select-- Benefits Adm_a1415d</name>
+   <tag></tag>
+   <elementGuidId>e64f3fe4-2028-4aa9-bc23-f98155ed0e7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[3]/div/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5aa274e9-0ecb-4329-830a-ef8894f481a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>fff502da-6e68-474f-8c42-4563d5535ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> *Job Function    --Select-- Benefits Administrator Benefits Manager Benefits Specialist Field Investigator Fraud Investigator Inspector Insurance Agent Insurance Sales Representative Investigator Lead Asset Protection Associate   </value>
+      <webElementGuid>7699f046-d9a1-4adb-abc7-45bc750b5da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/form[@class=&quot;mnone ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-valid-ta-min-text ng-valid-min ng-dirty ng-valid-parse ng-valid-is-exists&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;wizard-area mobile-campaign-wizard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-md-10 col-lg-7 request-campaign&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>f74e7b7a-34e1-4e73-888b-002dd5595b6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[3]/div/div/div/div[4]</value>
+      <webElementGuid>03502d44-02ff-4d6b-8267-ad29742ef5aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[2]</value>
+      <webElementGuid>de45bec9-aede-4542-a025-85212964f61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div[4]</value>
+      <webElementGuid>f4f66ce7-9a5b-4f8c-8ad8-8430446de758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' *Job Function    --Select-- Benefits Administrator Benefits Manager Benefits Specialist Field Investigator Fraud Investigator Inspector Insurance Agent Insurance Sales Representative Investigator Lead Asset Protection Associate   ' or . = ' *Job Function    --Select-- Benefits Administrator Benefits Manager Benefits Specialist Field Investigator Fraud Investigator Inspector Insurance Agent Insurance Sales Representative Investigator Lead Asset Protection Associate   ')]</value>
+      <webElementGuid>cacb7ae2-3294-4be7-a014-dda71afd738a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

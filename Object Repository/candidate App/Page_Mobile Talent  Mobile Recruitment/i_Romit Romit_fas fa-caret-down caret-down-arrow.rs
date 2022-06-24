@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Romit Romit_fas fa-caret-down caret-down-arrow</name>
+   <tag></tag>
+   <elementGuidId>687c840c-2550-44ca-b79d-a6a609905406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-caret-down.caret-down-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div/nav/ul/li[6]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>33bd37a5-dced-4ce5-8de9-bec26c429456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-caret-down caret-down-arrow</value>
+      <webElementGuid>23e7bb0b-3d47-4693-8467-7bbdbdba9e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper-main&quot;)/div[@class=&quot;ng-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar-default navbar-static-top&quot;]/ul[@class=&quot;nav navbar-top-links navbar-right&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle white&quot;]/i[@class=&quot;fas fa-caret-down caret-down-arrow&quot;]</value>
+      <webElementGuid>e0e96f71-72a3-4e10-9dd2-9c41faa0b75d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div/nav/ul/li[6]/a/i</value>
+      <webElementGuid>f3d957fe-c73a-471f-8542-46ffe205e90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/i</value>
+      <webElementGuid>177c43f9-986a-488e-894a-41a3596c6f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

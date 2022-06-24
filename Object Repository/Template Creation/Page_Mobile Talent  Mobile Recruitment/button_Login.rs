@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>b31922e2-4761-41de-b19f-44f6953836d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
+      <webElementGuid>f4d6956a-2dce-4ec7-8436-db81e324ec36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>go</value>
+      <webElementGuid>e7eb379b-8714-4fe1-9cfb-40cbf52f0f8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-warning btn-block</value>
+      <webElementGuid>6bed55f6-32e7-4f36-8c4a-10b8ebf63aa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Login</value>
+      <webElementGuid>b479fb9f-06aa-4fb3-bbe1-4becc7b91f61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,343 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>80d0063c-d624-4359-9535-1fc5a9a87478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28aa24d0-206c-4c30-a359-0359bc1ea08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>43f6f29a-f976-40d3-8d98-a4c46375332b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>517108ab-991e-4be6-95c7-2539a65b4499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>929fde3e-8ad3-4438-802e-a48fd1029898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>1de4c48c-7622-49b7-97d6-f29ed1ca2e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>dd3dcde3-d36a-4e99-96d4-52c02ff1ed8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c34cc29-dbb5-4dbc-90a8-a7541172bbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3af66b9e-1f7a-4e58-bc8c-b231a082e7b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>f4074a2d-d83f-4aa5-97fd-bf3125ed3504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>21a81be3-2079-4dd3-8ed0-a78a2f1ee674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>ee268d00-5701-475b-a0f8-2bb585a5b914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>d8ead3e9-dac8-4c14-811d-d458f45c3190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77733661-0db3-426d-b66c-a6aba9b23fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>de58d6af-87e7-4f19-b78e-dd64668f1ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>e6d6f7c9-550d-4397-8fd9-54499639c9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>fec53c5f-aea9-4ae8-8335-336c77c11472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>ad6dcf4b-6aea-44e1-8ec6-27bf592e6d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>2b427b70-98d4-45be-b011-43c1f775634d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>215cbc53-676a-47e3-9769-2f93b6ad1fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>cf0616a3-a274-4e1c-a950-7a66adf7309f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>2dcda9a4-1b44-4391-bdd6-3ed791424ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>6becf457-ea16-4d35-b214-565cc1372ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>70400f54-9f3b-40a2-a8aa-343182c9697e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>0631e82a-0819-4946-a46d-2ab8df4ebb75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>935da663-be00-4b3d-9e2e-1ecae9463223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>43ef7183-4849-40b4-ba4a-ffc40b7953b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>d55c2263-e9cb-4333-b811-eee097226223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>409a0b52-07d0-436e-8840-1fb91482ac24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>4776ec3c-f07a-41a4-89cc-c686bf30cae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>8172521a-b3e9-46a5-9fd4-9f991cfb75d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90325940-e4df-4bae-a692-2f0b915b66e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9c368fc4-d348-4d75-8b9f-e21ec72cfcf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>77951ce7-652a-482f-8a28-ecce61a0ebf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>4af1acba-f2a0-43fb-907a-f7a7448bdf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>b1a8d54f-2260-4671-9add-37fbae19e48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>fc142ba1-1174-4f55-ab35-4114f8b92b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>639a37f6-2e73-40c0-bc9b-7ea6d518aa10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b85f80b5-a808-44c0-adfa-554ab4e8360f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>go</value>
+      <webElementGuid>10412697-1349-4b92-bf62-23fb3dc9dcea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-block</value>
+      <webElementGuid>a75c077f-b526-4b00-a8a3-33adb0eb8b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>893695bd-ebaf-4435-9c9f-4652ec4b7d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/section[@class=&quot;container login-form ng-scope&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-dirty ng-valid-email ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-warning btn-block&quot;]</value>
+      <webElementGuid>09c0fd83-7872-4b17-9861-9797f51ccc86</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +406,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='go']</value>
+      <webElementGuid>4eb3bf6c-9a84-4054-920a-8521ffd8648f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +414,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contentMainDiv']/section/div/div/div/div/div/form/button</value>
+      <webElementGuid>9e6f774e-7f84-4d06-9d43-ac2f89bb86e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +422,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>8e5c1968-0fe3-487f-947d-29ce23175cdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +430,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required.'])[1]/following::button[1]</value>
+      <webElementGuid>3bd3df10-c969-4660-b32b-8875e49261e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +438,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Talent'])[1]/preceding::button[1]</value>
+      <webElementGuid>58e261aa-4197-4ff1-b797-d3904f5b5c6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +446,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
+      <webElementGuid>e597f999-b607-4871-84fb-af78e4cf6fd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +454,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @name = 'go' and (text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>1ad11df5-21a8-4109-9944-dc4562e82ed7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

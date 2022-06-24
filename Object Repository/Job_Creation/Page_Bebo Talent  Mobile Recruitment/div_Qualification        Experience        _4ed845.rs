@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qualification        Experience        _4ed845</name>
+   <tag></tag>
+   <elementGuidId>6e113b34-212b-4f66-a5c2-3079151d2f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10.col-lg-7.request-campaign > div.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[3]/div/div/div/div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>39d7cf29-759b-483f-8801-c73fa66d816f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>$ctrl.isJobReqEnabled</value>
+      <webElementGuid>1c52bb1f-afd9-4633-bf7d-3677bd64de44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>8e6adc6f-6c24-4336-a5b6-013a45fcc420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   * Qualification       * Experience          0 30 0 5  0 - 5 Years     * Salary          0 100 10 30  10 - 30k / Month      *Mandatory Skills         *Alternative Skills       </value>
+      <webElementGuid>a9de5bb3-2e85-475a-b041-3f8a5e638394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/form[@class=&quot;mnone ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-valid-min ng-dirty ng-valid-parse ng-valid-is-exists ng-valid-ta-min-text&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;wizard-area mobile-campaign-wizard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-md-10 col-lg-7 request-campaign&quot;]/div[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>a5e94c8a-d187-45bb-a3db-66292d5cc1c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[3]/div/div/div/div[7]</value>
+      <webElementGuid>712eeca3-bfc6-4d7f-bab6-dd4261c29f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter job description.'])[1]/following::div[2]</value>
+      <webElementGuid>0a8947bd-2184-477f-9843-93691536ab64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter minimum 200 characters.'])[1]/following::div[2]</value>
+      <webElementGuid>0bc24667-124d-4614-bf7d-57c4e00a1026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>e02385fe-5ac1-47d2-9d22-82bcfa3bfa4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '   * Qualification       * Experience          0 30 0 5  0 - 5 Years     * Salary          0 100 10 30  10 - 30k / Month      *Mandatory Skills         *Alternative Skills       ' or . = '   * Qualification       * Experience          0 30 0 5  0 - 5 Years     * Salary          0 100 10 30  10 - 30k / Month      *Mandatory Skills         *Alternative Skills       ')]</value>
+      <webElementGuid>79cd1fb2-c98c-4287-9148-151e9e0cc78f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>termsAndConditionLocator</name>
+   <tag></tag>
+   <elementGuidId>b653c988-63a0-4a0d-9a8e-a0a3d8197e88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>input[type='checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[class='boost-parameters']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7f0f20f9-b5ff-48ae-82b6-0010fa8e9a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-label radGroup1</value>
+      <webElementGuid>d9375209-bde4-4b43-805b-fa96b9c589b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>checkbox-terms</value>
+      <webElementGuid>ed1f2fb0-5743-4ea1-8862-2134ff4cf3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  I agree to the terms &amp; conditions </value>
+      <webElementGuid>45a02fdc-047f-40e7-8102-b89f45d41196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/candidate-register[@class=&quot;ng-scope&quot;]/section[@class=&quot;container login-form register-form&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;hpanel&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-valid-flag-changed ng-valid-ng-intl-tel-input&quot;]/div[@class=&quot;boost-parameters&quot;]/div[@class=&quot;boost-checkbox&quot;]/label[@class=&quot;css-label radGroup1&quot;]</value>
+      <webElementGuid>360d416b-8116-46c4-b299-23eb9b91b8ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/candidate-register/section/div/div/div/div[2]/div/form/div[6]/div/label</value>
+      <webElementGuid>b76047ab-006b-4233-bd54-2e6519de0139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number is invalid'])[1]/following::label[1]</value>
+      <webElementGuid>c29cae26-fd7e-491b-baed-9fc5ac35eda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[1]/following::label[1]</value>
+      <webElementGuid>f002ecc4-67d2-4beb-b5cf-bf434cba7f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please check terms &amp; conditions'])[1]/preceding::label[1]</value>
+      <webElementGuid>d03932b9-2c17-4e15-93ab-b958c85d1696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/label</value>
+      <webElementGuid>6b220f7d-6cee-4496-9fca-3bc97f1b021a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  I agree to the terms &amp; conditions ' or . = '  I agree to the terms &amp; conditions ')]</value>
+      <webElementGuid>9bfe417c-9ab8-4085-a101-a8842d7829a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

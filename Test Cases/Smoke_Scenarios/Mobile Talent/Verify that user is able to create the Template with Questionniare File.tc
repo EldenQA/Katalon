@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to create the Template with Questionniare File</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f689781-a86b-4573-a07e-5e1a4645db0d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>278d13e2-2734-4c61-8efb-287bb4632484</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('New Test Data')</defaultValue>
+      <description></description>
+      <id>278d13e2-2734-4c61-8efb-287bb4632484</id>
+      <masked>true</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

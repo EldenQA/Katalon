@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,6 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>577e4dfa-2650-4ccd-98d3-0b7836bf9b70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +29,7 @@
       <name>data-translate</name>
       <type>Main</type>
       <value>label.manage.templates</value>
+      <webElementGuid>21f0daf0-b813-4902-b579-888f7014c69f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-scope</value>
+      <webElementGuid>b4da6adb-6ccc-4614-bb99-d28b0f298bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Manage Templates</value>
+      <webElementGuid>c5570764-1285-4687-8e86-e0f496640cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +53,287 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>b29c6db3-6f7e-4c05-9705-532e374f3e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70e1d64e-c4aa-48bc-bebf-d67abc92b662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>ee2b26e7-650a-4c2b-8a6a-d30b88833121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>63a8f6d5-9ac6-40be-884b-eb0bc0ec4b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>90ec984e-0aec-4aa8-a2f9-cd5ac11010c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>db527b5a-9609-4260-b0dc-435df9ec2259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c60a303c-cbcd-434e-b241-29ace05afe01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>cd08f859-aadf-4643-b2a4-522decc5fad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>c9ee868e-7ee5-4521-a78d-7d763363378e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>f9bd3f90-1e7c-44a8-b156-c117c7722428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>ebdb2608-4b4e-4a44-af5e-0df560340f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d34f791-ed7a-4542-b537-83cdaf064a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>986048da-e295-413c-bd8a-7f579432050c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>e90775e3-f920-4feb-bdd6-b54e3370e625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>a322b74b-09b8-486c-9106-3d50e1e27eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>1fcba83c-8798-482d-985a-00ef328b97d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a49e9817-df76-40cc-81c5-eaa605b3aec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>8eae2b64-418e-41a8-9836-e508e1fd7ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>60448818-62e2-463b-b4a3-f1132a13416b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>a622db3c-a1a4-4e29-abf2-e9eb91d07e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>d3323018-904d-47a0-affe-3b89a8fbe501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed443596-1566-4c26-aa12-9a0f32609089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>f6370c10-64fc-41a3-9a43-8d46055a19fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>7e3bbe04-2aed-4d1e-9401-e398d24fdb9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>bd06c9e0-7e04-4268-8688-0c25280f9439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>24fe278e-0384-43ce-b861-8b25bec6d19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cedb1b5-9a8c-4f01-99e2-988d1e7492c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>21e08900-7a98-4ebb-8f38-2d7f478c9239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>760a86ae-d5c0-4875-a72c-0ca903e58045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>a7e2c947-0c81-4316-955f-94b9c6d22d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>c950cdf5-c10d-4758-9aaf-bc4c4ca662f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1124c9f9-9351-4388-a9b5-23d1a61640f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>label.manage.templates</value>
+      <webElementGuid>25f24b01-c93f-4ad1-b16f-b231f6bf7e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>eea993c1-6351-4371-815d-f9d9dc65d70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Templates</value>
+      <webElementGuid>43906159-3f5b-403e-8774-83a983548d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-example-navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav active-menu&quot;]/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>5175d154-d41a-4c38-97fc-a7f534886ce5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +341,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='bs-example-navbar-collapse-1']/ul/li[6]/ul/li[6]/a/span</value>
+      <webElementGuid>375f570e-387c-4df5-a946-ebfa7568cc81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +349,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Boosts'])[1]/following::span[1]</value>
+      <webElementGuid>3351f2cb-1a95-43e9-9e40-ced93cc54075</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +357,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Users'])[1]/following::span[2]</value>
+      <webElementGuid>f4419d97-062d-41ae-a6f4-3a92d0a9f3e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +365,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Career Page'])[1]/preceding::span[1]</value>
+      <webElementGuid>728b43cc-69d9-413f-bc11-136b6aad7585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +373,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Hiring Events'])[1]/preceding::span[2]</value>
+      <webElementGuid>5381cef6-9f9d-4146-8240-b2c1576d09bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +381,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[6]/a/span</value>
+      <webElementGuid>d58be773-4662-46e4-83b1-301c6bff6f8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,5 +389,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Manage Templates' or . = 'Manage Templates')]</value>
+      <webElementGuid>0a8627e3-ef62-4449-99cc-a94290163a92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

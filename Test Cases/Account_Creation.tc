@@ -5,6 +5,12 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f9fb7c0c-4221-4f8a-bbe2-46b684e4e2bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06e44c03-e060-436d-8189-1a5e2f56a2c7</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'C:\\\\Users\\\\atsharma\\\\Pictures\\\\photos.jpg'</defaultValue>
       <description></description>

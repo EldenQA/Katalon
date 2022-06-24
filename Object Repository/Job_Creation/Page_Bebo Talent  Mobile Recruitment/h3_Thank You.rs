@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Thank You</name>
+   <tag></tag>
+   <elementGuidId>eda2aec2-5904-4dde-a1c2-99c2b53326f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/div/div/div/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>483bee00-cc6a-48b8-bc22-b1f9d00f9799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank You !</value>
+      <webElementGuid>bcdee92f-2f15-4fa7-a5cd-d4c096b26c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;edit-campaign mtop20&quot;]/div[@class=&quot;wizard-area customize-template&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;mid-wizard-thanks&quot;]/h3[1]</value>
+      <webElementGuid>9e60837c-6eae-45a7-9904-18022c9d1d0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/div/div/div/div/div/div/h3</value>
+      <webElementGuid>ae7d2cba-7e2e-4771-bed8-5675ee596123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You'])[1]/following::h3[1]</value>
+      <webElementGuid>e72c0bec-0046-4621-a08c-1da4b5f4d9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::h3[1]</value>
+      <webElementGuid>85343713-5c80-4a66-8b4d-1e58fcdf6391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job_Auto'])[1]/preceding::h3[1]</value>
+      <webElementGuid>fbd4b1fb-4ec8-4918-8c33-dfd93300ab2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>6c66a767-e119-4a24-837b-bbd70b213e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Thank You !' or . = 'Thank You !')]</value>
+      <webElementGuid>31bb4578-72b6-45d2-a0c3-3c1e21def338</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

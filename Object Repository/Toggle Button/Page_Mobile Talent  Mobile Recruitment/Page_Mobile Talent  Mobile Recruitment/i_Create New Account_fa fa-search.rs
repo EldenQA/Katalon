@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Create New Account_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>371d3680-5984-4556-8cfd-f367a2b42ed1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/div/div/div/div/div[2]/div[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>90d53cc9-518e-4666-97c1-04cf66b9d5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>4a302916-449c-483f-9fba-b8161af5947f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 mtop20&quot;]/div[@class=&quot;col-sm-4 pull-right&quot;]/div[@class=&quot;input-group search-container&quot;]/button[@class=&quot;input-group-addon&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>a622366d-0957-439f-96a7-b7efcba50071</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div/div/div/div/div[2]/div[2]/div/button/i</value>
+      <webElementGuid>e7e0d4dc-390f-4bf3-85b7-26562eea9d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/i</value>
+      <webElementGuid>41a2cedd-ae06-49c5-b06e-99aa76567731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

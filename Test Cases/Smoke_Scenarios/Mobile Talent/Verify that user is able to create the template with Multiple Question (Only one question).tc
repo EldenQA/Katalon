@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to create the template with Multiple Question (Only one question)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbea79f7-0dd4-44be-8239-abec52c3655b</testCaseGuid>
+</TestCaseEntity>

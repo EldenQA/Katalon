@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>We can only verify this test case from Recruiter side only , we cannot automate candidate side</description>
+   <name>Verify that Recruiter is able to send the Email to candidate (Recruiter side only)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4564a110-e654-4de8-b5f4-c085390090ca</testCaseGuid>
+</TestCaseEntity>

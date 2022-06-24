@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Existed Candidate is able to send back the document after signing it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1804a7c0-2b97-47ab-bac3-c3c8f0b28fe1</testCaseGuid>
+</TestCaseEntity>

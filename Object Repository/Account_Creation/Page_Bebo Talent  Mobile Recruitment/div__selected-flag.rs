@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.selected-flag</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>5ad8e2cb-4950-44f6-843f-7e1ba3a23fe2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selected-flag</value>
+      <webElementGuid>ce6daa6f-5eb8-4fdd-b8db-3d1507b33257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>49a5a041-db23-470d-9404-51ae34bc3a2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>United States: +1</value>
+      <webElementGuid>19963260-5240-4938-b8a2-a09f90f44f2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;step1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;ng-invalid ng-invalid-required ng-valid-ng-intl-tel-input ng-dirty ng-valid-parse ng-valid-exists ng-invalid-pattern&quot;]/div[@class=&quot;row mot-country-code&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;county-code-form&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;intl-tel-input allow-dropdown&quot;]/div[@class=&quot;flag-container&quot;]/div[@class=&quot;selected-flag&quot;]</value>
+      <webElementGuid>d925862f-5280-4d7d-9139-2ac876fb9a2c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='step1']/div/div/div[2]/div/form/div[3]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>cd369163-8aef-47a7-afbd-0dd05b0480d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[5]</value>
+      <webElementGuid>8a834bb3-2635-4e98-9588-b9132ed8e13f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Argentina'])[1]/preceding::div[5]</value>
+      <webElementGuid>db6235b1-bf7a-4287-aedc-f7405621e12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brazil (Brasil)'])[1]/preceding::div[7]</value>
+      <webElementGuid>1c1af7b9-2b86-4465-a226-7230f73399e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>e84b2330-7185-4bea-8140-bc23a85856da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,5 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@title = 'United States: +1']</value>
+      <webElementGuid>0f7e9fd2-f046-4468-8d49-31ba325e8f9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

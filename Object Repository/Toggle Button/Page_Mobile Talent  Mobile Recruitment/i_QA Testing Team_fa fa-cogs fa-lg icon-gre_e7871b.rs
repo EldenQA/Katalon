@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_QA Testing Team_fa fa-cogs fa-lg icon-gre_e7871b</name>
+   <tag></tag>
+   <elementGuidId>87857252-2e72-411d-9a0d-526cc44bb055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accountData']/table/tbody/tr/td[6]/a[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-cogs.fa-lg.icon-grey.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>81cfd7c4-00ba-4cf8-9b3e-3aa5b123a0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cogs fa-lg icon-grey ng-scope</value>
+      <webElementGuid>d42fe99b-2161-488f-a9ef-91bc67dcde97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>9ec29555-6ce2-41ef-8dfb-d58a31870c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Account Settings</value>
+      <webElementGuid>e0b662c3-0199-4038-ac7e-57793bdbd7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-animation</name>
+      <type>Main</type>
+      <value>am-flip-x</value>
+      <webElementGuid>00935468-5a3e-400f-bb54-069332960f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountData&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[6]/a[@class=&quot;link-color-black ng-scope&quot;]/i[@class=&quot;fa fa-cogs fa-lg icon-grey ng-scope&quot;]</value>
+      <webElementGuid>75f69b67-e371-4737-89a1-e36aea8aa058</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accountData']/table/tbody/tr/td[6]/a[3]/i</value>
+      <webElementGuid>e7a34f48-e479-4716-8ecd-9068baa40e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>1ed2d229-7738-444b-a074-a31279f20189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

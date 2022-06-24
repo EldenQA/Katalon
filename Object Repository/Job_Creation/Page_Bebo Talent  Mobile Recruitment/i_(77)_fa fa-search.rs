@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(77)_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>5e81dce2-98de-4d5b-a4ae-f5de66181442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/div/div/div[2]/div[2]/div/div/filters-action/div/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>49f3d5f1-896d-4987-b987-6a7a1dbe4229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>ce1fa99c-fefe-4aad-b812-016aff3c84f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;area-heading&quot;]/div[@class=&quot;col-xs-6 text-right&quot;]/div[@class=&quot;search-microsite&quot;]/div[@class=&quot;page-filter my-mobile-campaign-filters&quot;]/filters-action[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;filter_links_widget filter_links_widget_all_jobs&quot;]/button[@class=&quot;filter-ico search btn btn-secondary btn-orange bulk-orange-btn ng-scope&quot;]/span[@class=&quot;ng-scope&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>d79fd183-32ae-4f9f-b205-e3042544e5c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/div/div/div[2]/div[2]/div/div/filters-action/div/button/span/i</value>
+      <webElementGuid>15642914-9a75-40a8-88e1-da2223603e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>da8d760c-8df4-4df0-a99c-b86cfca3feb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

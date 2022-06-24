@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Software_Testing_geuT</name>
+   <tag></tag>
+   <elementGuidId>c6248a72-082b-4c11-8cc7-2cd9b0fa2040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[3]/div/div[3]/div/div[2]/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>714d0098-969b-4706-9e67-6cf2ccb6ead1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Software_Testing_geuT  </value>
+      <webElementGuid>25f4a9b4-e7a5-443d-8ebe-68a219c47347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 dashboard-main&quot;]/div[@class=&quot;panel border-panel&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;table-responsive campaign-table dashboard-table dashboard-table-small&quot;]/table[@class=&quot;table table-striped table-hover draggable-table campaign-table min-table ng-scope&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[3]</value>
+      <webElementGuid>0d010fb0-1147-455a-9454-f318677854f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[3]/div/div[3]/div/div[2]/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>862bd17d-668d-48df-8570-dec33142f8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB_3938'])[1]/following::td[1]</value>
+      <webElementGuid>74f85b9b-d20e-4a47-807b-4936b290ddfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bot'])[1]/following::td[3]</value>
+      <webElementGuid>80845699-0888-4414-9aa3-b323f5cecc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boost'])[1]/preceding::td[7]</value>
+      <webElementGuid>2725edf5-1425-4a2c-ad98-8e3e627bf360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>d6169dd0-486f-4519-9061-dd82954e3ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' Software_Testing_geuT  ' or . = ' Software_Testing_geuT  ')]</value>
+      <webElementGuid>f88d6fe6-6032-4c50-ae37-f0a15092a881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mobile Number_iti-flag mx</name>
+   <tag></tag>
+   <elementGuidId>8fd81826-614c-48e8-a2cf-33fbcdeb0caf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/form/fieldset/div/div/div/fieldset/div[4]/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.iti-flag.mx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01278fa6-3cba-4ec7-8656-827e9a56db48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti-flag mx</value>
+      <webElementGuid>8c3d5f89-f736-4dec-8045-60d509225f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;microsite-min-height&quot;]/div[@class=&quot;col-sm-12&quot;]/form[@class=&quot;capture-form ng-valid ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-dirty ng-valid-parse&quot;]/fieldset[1]/div[@class=&quot;innerLabel fg-form ng-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;fg-form-fields&quot;]/fieldset[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-field-inner form-group ng-isolate-scope fg-field-required&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;intl-tel-input allow-dropdown&quot;]/div[@class=&quot;flag-container&quot;]/div[@class=&quot;selected-flag&quot;]/div[@class=&quot;iti-flag mx&quot;]</value>
+      <webElementGuid>5b2127a9-40fb-4abf-8d73-383c7374f2d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/form/fieldset/div/div/div/fieldset/div[4]/div/div/div/div/div/div/div</value>
+      <webElementGuid>d280739a-4540-41b8-a01a-2e828b63b142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div</value>
+      <webElementGuid>14e02c99-8c60-4c31-b4eb-a460ebec2304</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

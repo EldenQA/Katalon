@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMS Language     Select a Locale. Engli_daeb4a</name>
+   <tag></tag>
+   <elementGuidId>9e1eb948-2a96-48ba-9e23-e2b26f64558d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[2]/div/div/message-template-settings/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10.col-lg-7.messageTemplate.campaignWizard</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb781b44-5a91-4b8d-8641-9e89745ad7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-10 col-lg-7 messageTemplate campaignWizard</value>
+      <webElementGuid>679a7274-c01b-4e4f-b213-36b6ee1b1e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   * SMS Language     Select a Locale... English     Please select a Language...              * Welcome Message      The message cannot be blank.     Reset to Default       </value>
+      <webElementGuid>e706a729-dbbf-4b87-a057-5170de3cf752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/form[@class=&quot;mnone ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-valid-ta-min-text ng-valid-min ng-dirty ng-valid-parse ng-valid-is-exists&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;wizard-area mobile-campaign-wizard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/message-template-settings[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-md-10 col-lg-7 messageTemplate campaignWizard&quot;]</value>
+      <webElementGuid>b8b0f6d0-8299-4278-9c4b-e890688e1434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[2]/div/div/message-template-settings/div</value>
+      <webElementGuid>b51d8990-7639-4b42-868a-57f7b2965f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS Settings'])[1]/following::div[4]</value>
+      <webElementGuid>b720ff72-a117-4d9d-8eed-1e04bb7737b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATS Apply Link'])[1]/following::div[5]</value>
+      <webElementGuid>699ed9c2-9092-4ad9-b4cb-02cbdca9b179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//message-template-settings/div</value>
+      <webElementGuid>26025be0-86f3-40ae-95ca-9f1814edeb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '   * SMS Language     Select a Locale... English     Please select a Language...              * Welcome Message      The message cannot be blank.     Reset to Default       ' or . = '   * SMS Language     Select a Locale... English     Please select a Language...              * Welcome Message      The message cannot be blank.     Reset to Default       ')]</value>
+      <webElementGuid>7eb3cb97-6c4c-4e1b-8cf6-78f45c8cdba2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

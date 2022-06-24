@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Recruiter is able to send the message to Candidate when Automated bot is on</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d458f7bb-c588-449f-a597-b0aa716699ae</testCaseGuid>
+</TestCaseEntity>

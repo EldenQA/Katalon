@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job Function    --Select-- Accountant A_b3d603</name>
+   <tag></tag>
+   <elementGuidId>da1e0b5b-4a06-4c15-bdb5-e14a785c2864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bff2e031-2695-4632-8fc9-3e3d3613dedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>bd7bf5a6-02a2-4c2b-a9a3-2e8feb71865a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> *Job Function    --Select-- Accountant Accounting Assistant Bookkeeper Budget Analyst CNA Controller Credit Manager Finance Manager Financial Advisor Financial Analyst Internal Auditor Quantitative Analyst Tax Accountant Treasury Analyst VP Director of Finance   </value>
+      <webElementGuid>d7e1f57c-137a-46ec-ba70-ad63159b7ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop10 ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;fadeIn ng-scope&quot;]/form[@class=&quot;mnone ng-scope ng-invalid ng-invalid-required ng-valid-maxlength ng-valid-ta-min-text ng-valid-min ng-dirty ng-valid-parse ng-valid-is-exists&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;wizard-area mobile-campaign-wizard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-md-10 col-lg-7 request-campaign&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>fde134e1-7972-4f8c-b108-91f30719eda8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[4]/form/div/div/div[2]/div[3]/div/div/div/div[4]</value>
+      <webElementGuid>c75a393d-f15c-4525-9871-44345b5174a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[2]</value>
+      <webElementGuid>7b40b35d-2d3f-4ef6-81b6-fabc85de1010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div[4]</value>
+      <webElementGuid>3d3918c4-e38b-4a17-bc2f-cc06085f5e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' *Job Function    --Select-- Accountant Accounting Assistant Bookkeeper Budget Analyst CNA Controller Credit Manager Finance Manager Financial Advisor Financial Analyst Internal Auditor Quantitative Analyst Tax Accountant Treasury Analyst VP Director of Finance   ' or . = ' *Job Function    --Select-- Accountant Accounting Assistant Bookkeeper Budget Analyst CNA Controller Credit Manager Finance Manager Financial Advisor Financial Analyst Internal Auditor Quantitative Analyst Tax Accountant Treasury Analyst VP Director of Finance   ')]</value>
+      <webElementGuid>d6514beb-a5f2-4e57-ad00-33f83512316f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

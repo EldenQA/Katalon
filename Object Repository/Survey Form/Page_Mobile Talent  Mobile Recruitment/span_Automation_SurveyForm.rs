@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Automation_SurveyForm</name>
+   <tag></tag>
+   <elementGuidId>b94ab9cc-fa0b-4108-9c67-3def050654bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assignSurveyPopup']/div/div/div[2]/div/div/div/div/div/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;surveyList&quot;] > div.ui-select-match > span.btn.btn-default.form-control.ui-select-toggle > span.ui-select-match-text.pull-left > span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7ea2f5c-efcc-4e49-ae74-ed9b5588b381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>3368d6df-a7c3-4599-ab4d-b20e6be898e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation_SurveyForm</value>
+      <webElementGuid>32b4841c-cacc-4629-96b2-32853860e40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assignSurveyPopup&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content overflow-visible&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;link-survey ui-select-container ui-select-bootstrap dropdown ng-valid ng-valid-required&quot;]/div[@class=&quot;ui-select-match&quot;]/span[@class=&quot;btn btn-default form-control ui-select-toggle&quot;]/span[@class=&quot;ui-select-match-text pull-left&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>467206a5-76ae-42c0-8431-b283b5364198</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assignSurveyPopup']/div/div/div[2]/div/div/div/div/div/span/span[2]/span</value>
+      <webElementGuid>881edddc-c28b-41b8-ab31-97f91b0b6db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select microsite'])[1]/following::span[2]</value>
+      <webElementGuid>0a7594e0-d445-4427-a105-c587a4e2c730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Microsite'])[1]/following::span[4]</value>
+      <webElementGuid>1bc0afec-2362-4702-9f26-adc30dee730d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::span[2]</value>
+      <webElementGuid>600734d9-ff9b-4c3a-bb45-155794273a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::span[2]</value>
+      <webElementGuid>175ac781-5b82-4f68-92f3-2cd16d8379e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automation_SurveyForm']/parent::*</value>
+      <webElementGuid>f251a391-b2db-4ae2-bb7d-ffcdcc2b0ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/span/span[2]/span</value>
+      <webElementGuid>2ec2b0bd-3104-4684-aef0-4a99877fab68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Automation_SurveyForm' or . = 'Automation_SurveyForm')]</value>
+      <webElementGuid>3e6a657a-2f7d-40f3-8ad0-db0c0afe8733</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

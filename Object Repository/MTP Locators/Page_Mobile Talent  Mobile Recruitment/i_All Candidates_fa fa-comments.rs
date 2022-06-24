@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_All Candidates_fa fa-comments</name>
+   <tag></tag>
+   <elementGuidId>0f3d5b79-6fd2-4101-96e6-10578bf60e5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/div[2]/div/div[3]/div[3]/div/div/div[2]/div/div[2]/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-comments</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eadbe066-1bc0-4aaa-abba-99e46a20a44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-comments</value>
+      <webElementGuid>df0c2a3b-44e5-4f5c-8be5-e107fede8791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/div[@class=&quot;container-main ptop5 ml ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;manage-leads-shadow ng-scope&quot;]/div[@class=&quot;mtop5 ml captured-leads-wrapper ng-scope&quot;]/div[@class=&quot;col-lg-7 col-md-7 all-candidate-full&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;page-filter&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 text-right talent-leads&quot;]/button[@class=&quot;btn btn-orange bulk-emails-btn transform: translateY ng-scope&quot;]/span[@class=&quot;lcount ng-scope&quot;]/i[@class=&quot;fa fa-comments&quot;]</value>
+      <webElementGuid>2ed64a0a-cbae-4819-a5d8-33eb97948b05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/div[2]/div/div[3]/div[3]/div/div/div[2]/div/div[2]/button/span/i</value>
+      <webElementGuid>fd500fb5-9db2-40ca-9816-52d7f60ec570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/i</value>
+      <webElementGuid>b62146a5-b0d5-4bbd-bd44-d15fec2e2d4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

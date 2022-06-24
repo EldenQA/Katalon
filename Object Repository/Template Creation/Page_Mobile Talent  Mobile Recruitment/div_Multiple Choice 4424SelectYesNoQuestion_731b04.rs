@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Multiple Choice 4424SelectYesNoQuestion_731b04</name>
+   <tag></tag>
+   <elementGuidId>dbfd2b50-d5f6-44e2-a4d9-9f9ee478353a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#contentMainDiv > create-template > div.container-main.canvas > div > div.margin-sm > div > div.microsite-main.mtop > div.col-lg-2.sidebar.col-lg-2-canvas > div > div > div > div > div.map-list.ng-scope > div.ng-scope.angular-ui-tree > ol > li > ol > li > div > span.ng-scope.ng-binding.color-blue-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[6]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a2bcf55-5558-4911-9fe0-55e972681b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fg-field fg-field-selectlist fg-edit-canvas-field</value>
+      <webElementGuid>02674540-7046-4171-963b-98da42e49e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'error': field.$$_invalid, 'dragging': field.$_isDragging }</value>
+      <webElementGuid>511ce062-9059-470f-b388-376e8e49709a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dq-draggable</name>
+      <type>Main</type>
+      <value>fg-edit-canvas</value>
+      <webElementGuid>8b0a458b-cf44-4116-b70c-ec096449cfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dq-drag-disabled</name>
+      <type>Main</type>
+      <value>dragEnabled === false</value>
+      <webElementGuid>bc38c301-9300-4c29-9634-4f407472931d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dq-drag-begin</name>
+      <type>Main</type>
+      <value>canvasCtrl.dragBeginCanvasField($index, field)</value>
+      <webElementGuid>31215701-4f8b-47c0-a174-d79ed68301c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dq-drag-end</name>
+      <type>Main</type>
+      <value>canvasCtrl.dragEndCanvasField(field)</value>
+      <webElementGuid>93db1393-58d2-4995-9da0-339ed5c68997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>18caccf0-26a8-4b9a-b66a-e5761a8065b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Multiple Choice 4424SelectYesNoQuestionResponseQuestion TextExplanationRequiredSelection TextTextScore</value>
+      <webElementGuid>dcaed283-0db8-486a-abdb-824831850847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFields&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;needs-some-more-space ng-isolate-scope&quot;]/div[@class=&quot;fg-tabs tabbable&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-tabs-pane&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-valid ng-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-required&quot;]/div[@class=&quot;fg-edit row form-group pos-rel ng-valid ng-isolate-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-required&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;fg-form&quot;]/div[@class=&quot;fg-edit-canvas&quot;]/fieldset[1]/div[@class=&quot;fg-edit-canvas-area&quot;]/div[@class=&quot;ng-scope&quot;]/div[2]/div[@class=&quot;fg-field fg-field-selectlist fg-edit-canvas-field&quot;]</value>
+      <webElementGuid>86ac9f0e-365e-4122-9678-2b55353c9f6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[6]/div[2]/div</value>
+      <webElementGuid>39bb4d59-0981-409b-9c2b-8e9fed32f994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Score'])[1]/following::div[6]</value>
+      <webElementGuid>4ce3b8f7-0694-46b4-a56e-fb340c169d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/following::div[6]</value>
+      <webElementGuid>2bdb7d19-4374-4e7d-bfed-db16b8bf862e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div</value>
+      <webElementGuid>08d81796-cd84-436a-9b1c-292b70509ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '   Multiple Choice 4424SelectYesNoQuestionResponseQuestion TextExplanationRequiredSelection TextTextScore' or . = '   Multiple Choice 4424SelectYesNoQuestionResponseQuestion TextExplanationRequiredSelection TextTextScore')]</value>
+      <webElementGuid>d1bb8cc4-41fa-479d-867c-281f41604efb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

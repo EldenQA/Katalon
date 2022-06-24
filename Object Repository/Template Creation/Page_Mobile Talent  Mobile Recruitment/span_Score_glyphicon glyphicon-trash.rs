@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Score_glyphicon glyphicon-trash</name>
+   <tag></tag>
+   <elementGuidId>26625ebd-e81a-404e-86eb-cfb0a56f484f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fg-field.fg-field-textarea.fg-edit-canvas-field > div.fg-field-overlay > div.btn-toolbar.btn-toolbar-right > button.btn.btn-default.btn-xs.btn-danger > span.glyphicon.glyphicon-trash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[6]/div[2]/div/div/div[3]/button[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04ae576f-6165-414c-85a9-481b3fb20db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-trash</value>
+      <webElementGuid>0b0643ad-f172-40ea-a14e-b150c67e6128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFields&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;needs-some-more-space ng-isolate-scope&quot;]/div[@class=&quot;fg-tabs tabbable&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-tabs-pane&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-valid ng-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-required ng-valid-parse&quot;]/div[@class=&quot;fg-edit row form-group pos-rel ng-valid ng-isolate-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-required ng-valid-parse&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;fg-form&quot;]/div[@class=&quot;fg-edit-canvas&quot;]/fieldset[1]/div[@class=&quot;fg-edit-canvas-area&quot;]/div[@class=&quot;ng-scope&quot;]/div[2]/div[@class=&quot;fg-field fg-field-textarea fg-edit-canvas-field&quot;]/div[@class=&quot;fg-field-overlay&quot;]/div[@class=&quot;btn-toolbar btn-toolbar-right&quot;]/button[@class=&quot;btn btn-default btn-xs btn-danger&quot;]/span[@class=&quot;glyphicon glyphicon-trash&quot;]</value>
+      <webElementGuid>a4750190-82c6-4945-954e-8a90d838da5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[6]/div[2]/div/div/div[3]/button[4]/span</value>
+      <webElementGuid>c75db45a-2dd0-4972-aeac-6f292c90077e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[3]/button[4]/span</value>
+      <webElementGuid>7584e500-f465-4731-b2b7-364138c604c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

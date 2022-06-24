@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sendButtonLocator BotOff</name>
+   <tag></tag>
+   <elementGuidId>87fadfb6-49d1-4412-b907-e872a4660163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#chats > div > div.slimScrollDiv > div:nth-child(2) > div > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>021b8f6b-bd0c-4c2f-add9-c53f4558d7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-paper-plane</value>
+      <webElementGuid>f284be8f-82a7-4d34-a57c-191ac30bef74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2149f642-7224-4691-a517-6e1589568f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chats&quot;)/div[@class=&quot;chat&quot;]/div[@class=&quot;slimScrollDiv&quot;]/div[2]/div[@class=&quot;chat-message clearfix ng-scope&quot;]/button[@class=&quot;btn btn-yellow ng-scope&quot;]/i[@class=&quot;fas fa-paper-plane&quot;]</value>
+      <webElementGuid>f5f3d7d1-578a-4f87-afb2-6b1c44828607</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chats']/div/div[3]/div[2]/div/button/i</value>
+      <webElementGuid>3d706e93-f365-4e79-bce9-b466971082e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/button/i</value>
+      <webElementGuid>92411cba-2f0b-4f44-a2ff-1c8b0773aa8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_notifications</name>
+   <tag></tag>
+   <elementGuidId>0fa080aa-e789-4c97-9b76-214d84f2458a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-badge.mat-icon-button.mat-badge-overlap.mat-badge-above.mat-badge-after.mat-badge-medium.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::mat-icon[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>81d5a557-f2bd-49eb-8ad8-da5b7b8ae252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon material-icons</value>
+      <webElementGuid>41e074a3-9ff4-4dfd-bc51-4b7797adf0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d049a35b-230e-48a2-b646-bcc4ee0737c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>641396d7-5a9e-4bcf-a163-1be2c507ff58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>notifications</value>
+      <webElementGuid>9075fbf0-bba6-4cea-aceb-22fc17c4aa6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;motzie-staging mt&quot;]/app-root[1]/app-layout[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-header-bar[1]/mat-toolbar[@class=&quot;top-header mat-toolbar mat-toolbar-single-row&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;notification-menu ng-star-inserted&quot;]/button[@class=&quot;mat-badge mat-icon-button mat-badge-overlap mat-badge-above mat-badge-after mat-badge-medium ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon material-icons&quot;]</value>
+      <webElementGuid>3e05d743-1f0e-4e7c-bc82-027949ea6c39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>9812f1fe-db7d-4ee2-aeb0-20bd5653d801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::mat-icon[3]</value>
+      <webElementGuid>1be33ae4-20a6-4c9a-b6b9-5766bbe07ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Mobile Talent'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>026f278d-5611-4f51-be63-e1177e966fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Now'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>f671b8cb-cb96-4e6b-81d5-0b2605d817ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='notifications']/parent::*</value>
+      <webElementGuid>b5b9e5c7-fffb-48b2-94ac-175a18ce7de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/mat-icon</value>
+      <webElementGuid>0cc7415b-e50a-44ba-9e2c-49b926c83f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'notifications' or . = 'notifications')]</value>
+      <webElementGuid>7c4c738a-3a69-464f-8b3d-94b8ca1ecd41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

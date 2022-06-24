@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Template Name</name>
+   <tag></tag>
+   <elementGuidId>1f8d7ffe-9dd6-461c-ba43-04486bc553d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.col-sm-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5ff00c54-9923-4358-bf91-6869a8e8273a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-12</value>
+      <webElementGuid>7957185c-c54d-4367-8f67-3a3f3d1123ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* Template Name</value>
+      <webElementGuid>6feed013-3eb6-49d6-8c9f-b3fed06c6ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template&quot;]/label[@class=&quot;col-sm-12&quot;]</value>
+      <webElementGuid>65640fa7-db55-42e5-8204-a0843cb37f9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li/label</value>
+      <webElementGuid>bfa7d4d2-86ad-4a84-957e-a05141017ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Canvas'])[1]/following::label[1]</value>
+      <webElementGuid>982edcec-3cf4-4764-8f13-8be7b08db61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Templates'])[2]/following::label[1]</value>
+      <webElementGuid>3491505c-edd0-4db7-a501-f245ed17aac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Template Name']/parent::*</value>
+      <webElementGuid>76a8a557-b755-4fb7-872b-5b439bd0b4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>21476625-0473-4221-a8ff-8f32e96a020b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '* Template Name' or . = '* Template Name')]</value>
+      <webElementGuid>2168ca9c-1f00-4ebe-b62a-ddd899301e0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

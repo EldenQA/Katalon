@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selection Text_col-sm-7 col-md-8</name>
+   <tag></tag>
+   <elementGuidId>bf99324d-a2eb-42a3-98d5-7d6711371c87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[7]/div[2]/div/div[3]/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>caf2f4cf-a389-4194-8be5-588c65d13f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-7 col-md-8</value>
+      <webElementGuid>a02afa40-a723-47d9-a416-cfa623b06bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFields&quot;)/div[@class=&quot;panel-body bg-grey&quot;]/div[@class=&quot;needs-some-more-space ng-isolate-scope&quot;]/div[@class=&quot;fg-tabs tabbable&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-tabs-pane&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;form-horizontal ng-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;fg-edit row form-group pos-rel ng-isolate-scope ng-valid-pattern ng-valid-minlength ng-valid-maxlength ng-valid-flag-changed ng-valid-ng-intl-tel-input ng-valid-unique ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;fg-form&quot;]/div[@class=&quot;fg-edit-canvas&quot;]/fieldset[1]/div[@class=&quot;fg-edit-canvas-area&quot;]/div[@class=&quot;ng-scope&quot;]/div[2]/div[@class=&quot;fg-field fg-field-selectlist fg-edit-canvas-field&quot;]/div[@class=&quot;fg-field-properties-container ng-isolate-scope visible&quot;]/div[@class=&quot;fg-field-properties&quot;]/div[@class=&quot;ng-valid ng-valid-unique ng-valid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;fg-tabs tabbable&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fg-tabs-pane&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;form-group ng-scope&quot;]/div[@class=&quot;col-sm-7 col-md-8&quot;]</value>
+      <webElementGuid>08013acd-a46d-4097-9a88-5eb90dfaf9b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFields']/div/div/div/div/div/div/div/form/div/div/div/div/fieldset/div/div[7]/div[2]/div/div[3]/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>91786d66-2586-4156-829c-f38b97d93a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection Text'])[3]/following::div[1]</value>
+      <webElementGuid>0cfc1bbc-e0ef-467e-a1fe-af703e24d4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[7]/following::div[9]</value>
+      <webElementGuid>b8ccc9e1-7dbf-4e40-8750-06c658d9abee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[3]/preceding::div[1]</value>
+      <webElementGuid>5875859d-d134-4d33-9e08-9b9e35672ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Score'])[3]/preceding::div[1]</value>
+      <webElementGuid>c438b1ba-4aba-4c80-9589-a0ae0ae600ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div[3]/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>bdae2832-e978-4dfa-ba8d-4813a2ef8e2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

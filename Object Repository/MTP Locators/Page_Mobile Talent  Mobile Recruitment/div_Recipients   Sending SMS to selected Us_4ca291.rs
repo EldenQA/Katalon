@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recipients   Sending SMS to selected Us_4ca291</name>
+   <tag></tag>
+   <elementGuidId>cc6781e9-35a6-43dd-b94b-e3026be425d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bulkSms']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body.no-padding.modal-bulk-sms</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13915122-724b-41a1-97d6-5d9a606a2daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body no-padding modal-bulk-sms</value>
+      <webElementGuid>05d06e58-dbea-417a-ad9e-46f709c38d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        * Recipients   Sending SMS to selected Users    Schedule SMS    Timezone     Type and Select your timezone... Asia/Calcutta  (UTC+05:30 IST)       Please select a timezone.                *Message      *Schedule Date       *Schedule Time   10 59 AM PM11:00 AM PM12 01 AM PM               </value>
+      <webElementGuid>b38d1831-fd84-4ad6-82d3-49e00ac6be8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bulkSms&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body no-padding modal-bulk-sms&quot;]</value>
+      <webElementGuid>d9412735-a026-4442-9341-5c04c6fee5de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bulkSms']/div/div/div[2]</value>
+      <webElementGuid>6b738e4c-3d13-47a9-9525-e59ef3f069de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Sms'])[1]/following::div[1]</value>
+      <webElementGuid>862eda73-5596-4cac-8496-7c49b8555d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Sms'])[1]/following::div[1]</value>
+      <webElementGuid>5b2d1524-57d7-469a-9821-b73d24eb5cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]</value>
+      <webElementGuid>0021b9d4-2fa8-4bdf-ae25-27efc89ee18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '        * Recipients   Sending SMS to selected Users    Schedule SMS    Timezone     Type and Select your timezone... Asia/Calcutta  (UTC+05:30 IST)       Please select a timezone.                *Message      *Schedule Date       *Schedule Time   10 59 AM PM11:00 AM PM12 01 AM PM               ' or . = '        * Recipients   Sending SMS to selected Users    Schedule SMS    Timezone     Type and Select your timezone... Asia/Calcutta  (UTC+05:30 IST)       Please select a timezone.                *Message      *Schedule Date       *Schedule Time   10 59 AM PM11:00 AM PM12 01 AM PM               ')]</value>
+      <webElementGuid>755134c3-17b8-4e34-8164-d25a0249e486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

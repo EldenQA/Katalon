@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>candidateCountLocator</name>
+   <tag></tag>
+   <elementGuidId>666e6310-72a2-43ac-aa84-ebabf0e8e59a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='campaign_3709']/td[6]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[data-title='Candidates Count']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a5f0fcd-7721-406d-8209-07e35b952df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lcount ng-binding</value>
+      <webElementGuid>4fefbb55-be68-46e3-b191-4b6a1b5dd042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>140</value>
+      <webElementGuid>f3953df6-0800-4a6d-bea3-cb4eaae467b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;campaign_3709&quot;)/td[@class=&quot;text-center&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-secondary count ng-scope&quot;]/span[@class=&quot;lcount ng-binding&quot;]</value>
+      <webElementGuid>44c556f8-b421-48fb-8200-2dc51655e597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='campaign_3709']/td[6]/div/button/span</value>
+      <webElementGuid>96a0ef3d-446b-429b-8011-e6c2e519ec5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perl Developer'])[1]/following::span[2]</value>
+      <webElementGuid>e81d58a9-2e2b-4c61-9f0d-917de0470d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB_3709'])[1]/following::span[4]</value>
+      <webElementGuid>6dab7dad-c58c-4644-8c5a-c1ae9cec7ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boost'])[1]/preceding::span[2]</value>
+      <webElementGuid>c3a4a3b8-cbd1-43f7-9bb2-013bd7ed9de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled'])[1]/preceding::span[4]</value>
+      <webElementGuid>cc2637d4-cbf2-4be0-a27c-b77af4c8f6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='140']/parent::*</value>
+      <webElementGuid>8d643752-b90d-493a-8eb5-1e4b559dbbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/button/span</value>
+      <webElementGuid>b5550e5f-ce8a-4f94-9d0e-2355578a9f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '140' or . = '140')]</value>
+      <webElementGuid>c125439d-e6d1-4b9f-bb8b-2259f377f43a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

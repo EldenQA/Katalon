@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to schedule the Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fab353c6-617c-4735-9a54-9ca2d0d2c0e9</testCaseGuid>
+</TestCaseEntity>

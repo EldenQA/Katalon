@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to create the template with Multiple Questions,file,Location fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be71675b-1aae-4d22-b5c2-b6c3d71e096f</testCaseGuid>
+</TestCaseEntity>

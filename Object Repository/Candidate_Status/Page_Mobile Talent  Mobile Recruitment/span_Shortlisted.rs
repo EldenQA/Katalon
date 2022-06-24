@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shortlisted</name>
+   <tag></tag>
+   <elementGuidId>19fb563e-49c4-46bf-8b4a-03ba6bbcf2e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrap1']/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div/span/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.list-group-item.text-success.ng-scope > span.value-text.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c08101a-f004-468d-b53e-f3559dfabedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value-text ng-scope</value>
+      <webElementGuid>a63a1cfa-8967-42d7-9fdb-50649d84eadc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translate</name>
+      <type>Main</type>
+      <value>LEAD_STATUS.SHORTLISTED</value>
+      <webElementGuid>f1ce5d22-5add-4bd3-8cc4-7c14a310abcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shortlisted</value>
+      <webElementGuid>812c7bb5-7c20-426e-9db3-30b7075276f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrap1&quot;)/div[@class=&quot;leads-details&quot;]/div[@class=&quot;panel-group ng-scope&quot;]/div[@class=&quot;row leads-details-border-bot&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;score-area&quot;]/div[@class=&quot;status-col col-md-4&quot;]/div[@class=&quot;contact&quot;]/div[@class=&quot;text-center ng-scope&quot;]/span[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right animated fade-in-up lead-status-drop-down&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;list-group-item text-success ng-scope&quot;]/span[@class=&quot;value-text ng-scope&quot;]</value>
+      <webElementGuid>1ff30565-9eb9-4d0c-a740-c868e740bc54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrap1']/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div/span/ul/li/a/span[2]</value>
+      <webElementGuid>af1f693e-b998-4e19-ab7e-f33e0fd39297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hired'])[5]/following::span[2]</value>
+      <webElementGuid>614fb0f9-996b-4972-a8ed-ca535e04a810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Status'])[1]/following::span[6]</value>
+      <webElementGuid>1389960a-f7ff-4010-b1ed-2737b13e2265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacted'])[16]/preceding::span[2]</value>
+      <webElementGuid>db7ff534-4824-4327-90c0-c786c44a03c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interviewed'])[1]/preceding::span[4]</value>
+      <webElementGuid>5241ad9a-e3dd-4853-8a33-f5bd25648493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shortlisted']/parent::*</value>
+      <webElementGuid>33de8bd5-e62b-4eb8-bc39-211379212d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>86d031ab-801a-4ce8-9e0a-cb061651d015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shortlisted' or . = 'Shortlisted')]</value>
+      <webElementGuid>362450f7-e62c-40fc-92db-4f1084a64e01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

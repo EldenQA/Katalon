@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
+      <webElementGuid>7e16743c-3440-44f2-81f7-b5acb4c331ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>d900838a-bef8-4e08-87f0-f502e12711c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>ng-repeat</name>
       <type>Main</type>
       <value>option in options</value>
+      <webElementGuid>299ef5d5-fb66-4da0-ac98-4c5ae7e732ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>42da9f59-2302-4f30-b6c2-b3a5eee902eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>addItem(option)</value>
+      <webElementGuid>fda39345-869d-4c84-9c48-6465f6f6335b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>ng-mouseenter</name>
       <type>Main</type>
       <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>c0dac5b3-b8d4-48b8-bcda-beb54d3b524c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>ng-bind-html</name>
       <type>Main</type>
       <value>getDropdownLabel(option)</value>
+      <webElementGuid>09aa7658-d9d5-4727-9b07-a1b60c1d214b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,6 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Telecommunications</value>
+      <webElementGuid>516632a5-b71b-4f54-aaaa-63a652a32a97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,6 +86,511 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>c860b4bb-a511-4fe0-8e09-1b04889c7149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bad87fea-f6de-4832-a1a5-6946df06d554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>57b11d1e-64f9-48d5-8202-40ba7637273e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>856a1ea4-6486-4c2e-8389-4e2e2eb3ce05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>de26a8cf-1494-4201-af1f-cdfd9dc0431e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>2438c9a3-4a52-4356-a445-6a4543dd5202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>b8e59170-e944-480f-9039-f8a35ae0ba79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>c2408b0b-f768-4bdd-a86a-40b6a9ce0bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>ef9dbdde-15c9-4337-bc0e-596e81d1cbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>71a0fdd5-e51f-417b-9fb3-39254de5cb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8eea44dc-f4e8-48b8-aabc-55932c6e58b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>985e5679-bbc7-447f-9153-f5b5753011f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>61068869-56d5-4fb7-8650-663e0381f545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>a740ca3b-44fb-4ac2-a716-7d75908c28c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>8f6c61b5-632f-4473-bfdf-bf8968f451e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>d411272e-8490-4e55-b88c-6793f1d57bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>18c7c181-6c5f-4886-8ca7-8d08bb967033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>0eab24c9-0586-45bc-a9ac-4a20e6225e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>99e35964-90ae-4b40-8781-d42bb821f670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fb9e5db6-39a7-4d56-923b-88443eb77f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>b4712b53-6c67-422e-8b05-9deb64f84123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>05ce0810-6be0-4d90-b72e-763381174e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>52a172d9-ba5b-4994-8a25-88d15cf10bee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>2a03837f-eaf2-4b1a-a203-673ae30cede2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>07ad370d-5716-48ee-a3d1-163f364cf953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>bf9eb8f5-7d5e-4724-96e0-f5f40a189696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>f7f651ce-21f6-42dc-99b6-444ecdeb3c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>9a08cc73-03c0-46f7-b44a-386342705c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dc5deb6d-aa31-4330-a1da-0d98af2e1d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>98c21e76-b7eb-4037-99bf-f1fab0561cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>bd28e1f4-71f8-4450-bf7a-0620b3caf63a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>863bb42c-63a8-44cd-927b-c8a438822f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>3befcacb-77d9-4442-9971-35e9555e83ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>3caab579-04da-4f2f-adeb-26907f1ee0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>e5d13ae8-62e3-46c2-93ab-f1d25bcebcc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>9c277653-6916-47d6-b6a2-c4ca3ced7bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>e25da55d-19c6-414f-8537-2c552e829572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>80a408be-f7c2-4e04-a934-3ab2a6003d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>23fc19ea-40fd-46ec-b00f-fc9510de22f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>4a43bbb7-b6c0-4d9c-b10d-6ec3ee8b2113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>7339a476-7924-4896-b8e3-617aae64c6ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>4ba29d3a-7fb9-4db4-a0f8-8bc8fa29cdf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>f5ffa92b-5ba9-41c9-b173-79fd09ebca2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>01e49778-0337-4bf9-b5b6-a7000ab1b411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>cae07b5b-7483-491e-a59e-d30f0b158d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>f75e82bb-613d-4f64-b14e-9c7680841c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4c1dca29-a603-4a43-9679-62762866cae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>a2bf923d-d5cd-4c01-ae9f-7cfb4f1a2afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>eab15047-ccb5-44f4-8218-2e2276451856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>953e2f30-6369-4ca0-9558-823b3bad039d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>255cb8f8-724a-49ec-81c0-87a70e9a7f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>2bb81af7-2d5c-4525-9740-dbaac0358836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>cc9306c6-1b8a-470f-abee-2303083888db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>52d16358-bf28-46b9-b855-0a45b43633ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>e1426166-afff-431e-bf76-64faf165ea3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9f9b95c7-815e-4efb-9a3f-ccae5952c31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiselect-dropdown-optgroup-option ng-binding ng-scope active</value>
+      <webElementGuid>ea818ddf-0076-4f41-875d-ccad0b25bc2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>option in options</value>
+      <webElementGuid>f3011cb6-fd8a-4004-a717-e1d0e86d77d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': selectorPosition === groupPos[group] + $index}</value>
+      <webElementGuid>9965e266-0cc3-4619-8b1e-ec269a1598bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addItem(option)</value>
+      <webElementGuid>b0a0e905-89e6-461f-959a-a29140ea2d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseenter</name>
+      <type>Main</type>
+      <value>setSelection(groupPos[group] + $index)</value>
+      <webElementGuid>7b9fc933-2148-4348-acee-4667dd8c2935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>getDropdownLabel(option)</value>
+      <webElementGuid>044057a8-b4ea-40ea-b5b1-3ba09a37e7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telecommunications</value>
+      <webElementGuid>b9eb503a-b07f-4dfa-8a23-cd0e6f39a62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-invalid ng-invalid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;template job-industry&quot;]/div[@class=&quot;col-sm-12&quot;]/oi-multiselect[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope&quot;]/div[@class=&quot;multiselect-dropdown&quot;]/ul[@class=&quot;multiselect-dropdown-optgroup ng-scope&quot;]/li[@class=&quot;multiselect-dropdown-optgroup-option ng-binding ng-scope active&quot;]</value>
+      <webElementGuid>49cc5c8f-b59f-4912-a372-d6047bf783b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,6 +598,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li[3]/div/oi-multiselect/div[2]/ul/li</value>
+      <webElementGuid>84d3314a-4d2f-4d32-8011-342b02942e23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +606,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Family'])[1]/following::li[3]</value>
+      <webElementGuid>304349c8-927d-43e8-a8b0-f15cded9cf6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +614,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::li[6]</value>
+      <webElementGuid>6f918c9b-7f78-4a23-90e5-f3c8f508f7f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +622,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pharmacist &amp; Biotech'])[1]/preceding::li[1]</value>
+      <webElementGuid>568c9726-9217-46d0-9004-24f06592a46d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +630,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal'])[1]/preceding::li[2]</value>
+      <webElementGuid>fe8f866d-1222-40ee-b0e8-c07c1f12054d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +638,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li</value>
+      <webElementGuid>7c678078-fa92-4e41-a12f-93382f72f2e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,5 +646,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Telecommunications' or . = 'Telecommunications')]</value>
+      <webElementGuid>f458a44b-37ba-4891-81cd-9e2289c04ea9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

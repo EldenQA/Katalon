@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Yes</name>
+   <tag></tag>
+   <elementGuidId>cf93b5a6-6f01-4d51-b6b6-968aa648c78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noResultFound']/div/div/div/toggle-settings/div[7]/div/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Yes ' or . = ' Yes ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.btn-switch__label.btn-switch__label_yes.disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>38fc6f88-072d-4c16-bfb8-aa8f2d031d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-switch__label btn-switch__label_yes disabled</value>
+      <webElementGuid>2a9913a9-b536-48f8-b83d-0097d2e87550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>settingCode.VALUE+'_ENABLE_6'</value>
+      <webElementGuid>a187c11d-ff90-4e9b-ab5e-5cc5d21c9145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>$toggleSettingCtrl.toggles[settingCode.VALUE] ? 'enabled' : 'disabled'</value>
+      <webElementGuid>553cd22d-ce1f-4761-a4db-c36bb2c97b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes </value>
+      <webElementGuid>072024c6-3132-475f-a836-cdedbd330f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@id=&quot;noResultFound&quot;]/div[@class=&quot;userAccountSettings&quot;]/div[@class=&quot;panel panel-default account-settings&quot;]/div[@class=&quot;panel-body padding-short small-space&quot;]/toggle-settings[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;col-md-4 dashed-border-bottom ng-scope&quot;]/div[@class=&quot;toggle-container&quot;]/div[@class=&quot;toggle-switch&quot;]/div[@class=&quot;btn-switch&quot;]/label[@class=&quot;btn-switch__label btn-switch__label_yes disabled&quot;]</value>
+      <webElementGuid>ea0bcb4c-7041-4b5d-a900-257900baa4c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noResultFound']/div/div/div/toggle-settings/div[7]/div/div[3]/div/label</value>
+      <webElementGuid>fd044231-9086-4d14-84da-0895fd722577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Automated SMS'])[2]/following::label[1]</value>
+      <webElementGuid>92b3a656-baae-44c5-bf03-f5394f12eef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enable Automated SMS'])[1]/following::label[1]</value>
+      <webElementGuid>0ad130c7-93cf-4ea5-adb6-95b518d03270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[7]/preceding::label[1]</value>
+      <webElementGuid>0d56e760-0184-4d44-85ba-04f3b944c49e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/div/label</value>
+      <webElementGuid>204939e6-d7ad-4cde-bd4b-bd131f0646be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Yes ' or . = ' Yes ')]</value>
+      <webElementGuid>c6887d29-45c3-4d95-84e0-0e8de992e01c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

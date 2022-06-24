@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_-2 more</name>
+   <tag></tag>
+   <elementGuidId>5b42eb0a-608d-411f-a335-75d043611565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navItem1_11']/table/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0eb7ef6d-8c79-4ed0-ba02-015a33bf84e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>22%</value>
+      <webElementGuid>21007ced-4bca-46eb-b8d5-a12c50b31916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  -2 more  </value>
+      <webElementGuid>b0480cb1-4801-4a43-9d42-c853090ec8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navItem1_11&quot;)/table[@class=&quot;lead-score-data&quot;]/tbody[1]/tr[1]/td[6]</value>
+      <webElementGuid>6726866c-c748-40c6-bf17-1aa3c0f647e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navItem1_11']/table/tbody/tr/td[6]</value>
+      <webElementGuid>12bed7ee-2d38-4fbc-ba47-6070d14685af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mukesh Chaudhary'])[1]/following::td[2]</value>
+      <webElementGuid>39d6b75c-1c3d-4210-9546-72cab027dfbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='_en'])[11]/following::td[6]</value>
+      <webElementGuid>2ab514ea-2a18-4f90-b928-e45af1da3ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacted'])[9]/preceding::td[1]</value>
+      <webElementGuid>31e6301d-d957-4cd4-b262-71e06df30499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Engineer_Demo'])[3]/preceding::td[2]</value>
+      <webElementGuid>4373ba45-a38e-4c6d-a95a-1bfeccae73b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/table/tbody/tr/td[6]</value>
+      <webElementGuid>6efa1b53-8be2-47f9-bfe5-98c1782ecc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '  -2 more  ' or . = '  -2 more  ')]</value>
+      <webElementGuid>f8ff7322-c717-4a5b-a313-8e9f66e66016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>36ff4bde-9fc6-4b32-88cc-690e9a47bc6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-black btn-xlarge</value>
+      <webElementGuid>0cc230ba-5291-45e1-b10d-a7c0a7d30862</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>micrositeForm.$invalid || (vm.selectedPage.content.style.timer.enabled &amp;&amp; vm.selectedPage.content.style.timer.error) || (vm.selectedPage.content.style.randomisation.enabled &amp;&amp; vm.selectedPage.content.style.randomisation.error)</value>
+      <webElementGuid>40a5db7d-6775-4351-b383-b9e5fe996585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
+      <webElementGuid>51aaa7e4-c35f-4a36-a3f7-8478d988f7a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Save</value>
+      <webElementGuid>e510381d-fb74-47b3-989c-4ea0d8d4b06e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,55 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;lg template-lg&quot;]/span[@class=&quot;canvas-middle-buttons&quot;]/button[@class=&quot;btn btn-black btn-xlarge&quot;]</value>
+      <webElementGuid>9bf54f79-8ccb-4dc7-be36-a1e34ab99026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf442f79-00f5-424e-bea0-49e0951369e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black btn-xlarge</value>
+      <webElementGuid>1df59df1-d093-4b61-ba70-e6e5847c882a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>micrositeForm.$invalid || (vm.selectedPage.content.style.timer.enabled &amp;&amp; vm.selectedPage.content.style.timer.error) || (vm.selectedPage.content.style.randomisation.enabled &amp;&amp; vm.selectedPage.content.style.randomisation.error)</value>
+      <webElementGuid>0d01495c-0e7b-456a-9bbe-ca436d332fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ad4c2d30-c815-4b44-ba8d-949737922f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save</value>
+      <webElementGuid>3ea4ddb5-f2d7-4616-81b8-14065a68cee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/create-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;container-main canvas&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;margin-sm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;navbar navbar-default microsite-nav&quot;]/form[@class=&quot;canvas-form-m ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;canvas-nav template-canvas&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;lg template-lg&quot;]/span[@class=&quot;canvas-middle-buttons&quot;]/button[@class=&quot;btn btn-black btn-xlarge&quot;]</value>
+      <webElementGuid>7ce0520a-f6c4-46fe-8a18-8d0cee4a5e06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
+      <webElementGuid>bc3ab330-05b1-4e62-a7f1-370d47efccb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contentMainDiv']/create-template/div[2]/div/div[2]/div/div/div/nav/form/div/ul/li[8]/span/button</value>
+      <webElementGuid>5308b6ff-c860-4822-b5a1-71f4075e2ac4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select a Language...'])[1]/following::button[1]</value>
+      <webElementGuid>18df0864-fd59-427f-a165-e9caa8cc4750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::button[1]</value>
+      <webElementGuid>4227cafa-b290-41bd-a0b0-02c777d42ba4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>5e61e92a-1af0-4a04-86f0-4e1543b009dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +158,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Map'])[1]/preceding::button[2]</value>
+      <webElementGuid>d628f400-41d4-4aa4-a5ea-7f50ecd49cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>a9ec5d5e-b72b-4217-b86a-9a879c7d468f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +174,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button</value>
+      <webElementGuid>13bef810-129e-49b1-885a-a045e3041701</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,5 +182,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Save' or . = ' Save')]</value>
+      <webElementGuid>84410388-f1a0-4b46-a63b-980e6e36d8f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

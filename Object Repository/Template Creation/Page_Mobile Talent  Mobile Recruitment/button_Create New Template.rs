@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>c000b38b-a6dd-4e43-8b3c-760d88bf6eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>513c38df-851f-4bfb-b5a0-2ed0c40ecb36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>ui-sref</name>
       <type>Main</type>
       <value>.create</value>
+      <webElementGuid>2e028870-c7cb-4bdd-96b6-89eca989d98e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>access</name>
       <type>Main</type>
       <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>f6799d88-184c-477c-9d6a-c3193faa9921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>12a5f306-3da6-4352-b5b9-7b953058085c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>7d773486-01da-4661-8f5a-dee3d5c3de09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/manageTemplates/create</value>
+      <webElementGuid>89a9040f-d6f0-4684-b97d-73da781e8b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,6 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Create New Template</value>
+      <webElementGuid>678a3f99-3511-4931-935c-c2083ca19884</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,6 +86,511 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>7a737ccd-4c6e-49a8-99dd-5d21b7160755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>62c4b85c-bbb4-44ea-b1f6-409d55430541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>d4c575cd-e944-4498-91d1-85380ff0edfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>780b7891-558c-48c7-bae6-043dc545c23f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>b4176a55-077b-421d-b3a8-614a5dbdaea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>a29e4043-534e-4ace-9137-59052aa87d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de4babf7-e3a6-484e-b3e1-1085af44b99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>c71d0e48-dff8-4a08-9bbc-ef4da61cd483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>86e1b5d5-fe63-448b-a889-24ee34b944f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>37ce4df4-d8c0-4de2-8532-13cdffd9b612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>141006bd-789e-4867-93fc-5a65e1bebb76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>2345034c-b5a5-4064-8d8d-3218e4e6d914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>602a820d-5fd9-4c84-a111-6039181b5a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>ee92ebb1-05c7-4eea-b67c-48accd423737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>4a5038de-c186-4203-a738-67ade4e25f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f1483c7-5db8-408d-a24c-6ed8ece44d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>ee3cd9e8-c20f-437a-9fee-8ee6c467bd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>e0a346ed-228a-4935-abf5-686ba6f5d9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>2ea2547a-4d4e-4cc1-904e-faabe977eccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>50868fd0-5f2b-4017-9ef8-5051621b1bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>0ce41cf6-2e28-4717-8f54-928b8ee6d976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>fbdbcc33-c9b4-4dc9-897f-f4a876f54743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>47d09ca5-f9fa-4eb4-8ebb-bfcb4bb5c1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>62a8f851-ed02-4eef-b156-f60bf4c755af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e31499e0-1a8d-4448-b60f-f5b075739132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>815a3744-24e5-4d5b-8a2e-bda533c29770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>f355ff7e-c97d-4387-a3da-cb83255a8899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>096597ff-dcbf-43a1-b294-6a44585135f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c163692a-bd64-4146-a0ac-69b22a0504eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>eb77ef71-a89b-4fa0-84ba-d330ced9f0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>57ee8e78-8901-4188-99c1-d3414fd11ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>73449411-3074-4159-8053-ce41d45fb97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>b502034f-55d0-4e1e-94b1-03da53eb7ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ea040c3-fd63-496f-8cb3-fbdf9a18c002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>b303a969-764d-40b3-8b3c-41cbe91fac20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>91dd96ab-4310-4d49-93c4-19c274d9a68f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>f5465938-c757-477e-ac2f-512ea416c1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f5be487-c8fe-422f-a565-148e7915bd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>19828053-d874-4cd2-bc15-f97a8ef64272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>d2adf857-d200-49d3-8651-9762a09934ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>2f3f8d9a-574f-46dc-b7d8-7657251cdd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>19e11fb8-f98f-4685-8f97-dd94ea22d93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1575178b-f044-403c-92ca-11f42a735bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>a60e48d8-57ea-44f0-b5f3-d34c562a2f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>9156b09d-54d0-4979-a6ed-5af017c7a715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>03beb7f5-f766-4251-8d5d-cd386faf4795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>40c9f9bf-7ea6-49f2-a278-d5ddc6e52640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>51c34c2c-ac51-4837-addc-ddd40d9fb0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>b2dd8811-b77e-4b45-ae31-d6969a3344bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>1fc6d717-fc8e-4b2a-9380-c42f4bb59c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>ea111c2f-3b7a-4d9b-95da-e16212cc8a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0cd21d3d-43f3-42db-b71d-839d186eba42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>8651bce8-5d5d-4759-b93a-7be39ff866f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>f9b93a91-ed29-4ee1-b0d2-dd1484cf51b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>9b7927d8-33a9-4776-babc-e85d4962a6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3a8f74f-8d0b-485e-9867-d5b0274b8d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>vm.loginedUser.permissions.indexOf('CREATE_TEMPLATE') > -1</value>
+      <webElementGuid>58a5e82f-963a-40f8-b0d3-4123c1788afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-sref</name>
+      <type>Main</type>
+      <value>.create</value>
+      <webElementGuid>5bb43c16-fb91-4a3b-ae8b-3aac85c5bf32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access</name>
+      <type>Main</type>
+      <value>CREATE_UPDATE_MICROSITES</value>
+      <webElementGuid>1e62bf29-4bc3-4d44-b18d-29f115cf2640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-black createUserDialog ng-scope</value>
+      <webElementGuid>1747f742-7571-4342-abcb-1310a6bcb164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>83de9b24-9345-4744-8fdf-fd8e665d1ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manageTemplates/create</value>
+      <webElementGuid>56985b2e-b35c-414a-bd97-ef9a918bab8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New Template</value>
+      <webElementGuid>24212bd8-ea0f-4ecc-a05d-002d1de461a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentMainDiv&quot;)/manage-template[@class=&quot;ng-scope ng-isolate-scope&quot;]/template-list[@class=&quot;ng-isolate-scope&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;container-main ptop10&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;inner-banner&quot;]/div[@class=&quot;col-md-6 pull-right list-select-template padding-none mtop20&quot;]/div[@class=&quot;pull-right select-brand-popup&quot;]/button[@class=&quot;btn btn-black createUserDialog ng-scope&quot;]</value>
+      <webElementGuid>54a4ea48-a657-407a-a320-1a24988a56de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,6 +598,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>9ea0feb9-d043-4870-9477-e931054e4226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +606,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div/div/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>11af9ee0-4477-40f9-a5db-c4b3ea56cb10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +614,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>4c4759b7-e33e-41ba-a11a-b513b5906bf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +622,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::button[2]</value>
+      <webElementGuid>3f6eac95-4185-4232-b8cc-7fffedc7c190</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +630,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[1]</value>
+      <webElementGuid>c8fe5e79-47d7-490a-8aab-e0a57a0e3fce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +638,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>05ce3065-ca0f-4dbd-b478-0cd5435ef8f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +646,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
+      <webElementGuid>f87adf3d-e267-4d19-aa16-7ba8eb75f95d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,5 +654,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @href = '/manageTemplates/create' and (text() = ' Create New Template' or . = ' Create New Template')]</value>
+      <webElementGuid>befe2287-7c96-4248-ad5f-36787d821849</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

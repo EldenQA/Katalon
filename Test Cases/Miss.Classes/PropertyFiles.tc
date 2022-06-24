@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PropertyFiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21b401bb-32b9-4dd8-95c8-9e5f60e9de13</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ab0dd73-2086-4d3d-ac9f-2f13b6adede8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ab0dd73-2086-4d3d-ac9f-2f13b6adede8</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+</TestCaseEntity>

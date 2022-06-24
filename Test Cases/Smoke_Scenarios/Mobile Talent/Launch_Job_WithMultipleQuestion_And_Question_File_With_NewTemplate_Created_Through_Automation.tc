@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_Job_WithMultipleQuestion_And_Question_File_With_NewTemplate_Created_Through_Automation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7dfe583-c490-47c5-a6e3-d049576e305b</testCaseGuid>
+</TestCaseEntity>
